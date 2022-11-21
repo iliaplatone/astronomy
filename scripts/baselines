@@ -1,0 +1,27 @@
+#!/bin/bash
+
+if (( $# < 2 )); then
+	echo "usage: $0 num_lines cross_order";
+	exit 11;
+fi
+
+export l=$1
+export o=$2
+
+if (( $o < 2 )); then
+	echo "minimum order is 2"
+	exit 11;
+fi
+
+if (( $l < 2 )); then
+	echo "minimum number of lines is 2"
+	exit 11;
+fi
+
+for a in $(seq 0 $(( ($l*($l-1)/($o*$o/2))-1 ))); do
+ for order in $(seq 0 $(( $o-1 ))); do
+  echo "($a+$order*($a/$l+1)) % $l" | bc | tr -s '\n' ' ';
+ done;
+ echo "";
+done
+
