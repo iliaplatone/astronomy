@@ -1,0 +1,98 @@
+Substance                            Rest           Suggested        Notes1) 
+                                  Frequency      minimum bandwidth 
+ 
+Deuterium (DI)                     327.384 MHz    327.0 -  327.7  MHz 
+Hydrogen (HI)                     1420.406 MHz   1370.0 - 1427.0  MHz   2),3) 
+Hydroxyl radical (OH)             1612.231 MHz   1606.8 - 1613.8  MHz   3),4) 
+Hydroxyl radical (OH)             1665.402 MHz   1659.8 - 1667.1  MHz   4) 
+Hydroxyl radical (OH)             1667.359 MHz   1661.8 - 1669.0  MHz   4) 
+Hydroxyl radical (OH)             1720.530 MHz   1714.8 - 1722.2  MHz   3),4) 
+Methyladyne (CH)                  3263.794 MHz   3252.9 - 3267.1  MHz   3),4) 
+Methyladyne (CH)                  3335.481 MHz   3324.4 - 3338.8  MHz   3),4) 
+Methyladyne (CH)                  3349.193 MHz   3338.0 - 3352.5  MHz   3),4) 
+Formaldehyde (H2CO)               4829.660 MHz   4813.6 - 4834.5  MHz   3),4) 
+Methanol (CH2OH)                  6668.518 MHz   6661.8 - 6675.2  MHz   3),6) 
+Ionized Helium Isotope (3HeII)    8665.650 MHz   8660.0 - 8670.0  MHz 
+Methanol (CH3OH)                    12.178 GHz     12.17-   12.19 GHz   3),6) 
+Formaldehyde (H2CO)                 14.488 GHz     14.44-   14.50 GHz   3),4) 
+Cyclopropenylidene (C3H2)           18.343 GHz     18.28-   18.36 GHz   3),4),6)
+Water Vapour (H2O)                  22.235 GHz     22.16-   22.26 GHz   3),4) 
+Ammonia (NH3)                       23.694 GHz     23.61-   23.71 GHz   4) 
+Ammonia (NH3)                       23.723 GHz     23.64-   23.74 GHz   4) 
+Ammonia (NH3)                       23.870 GHz     23.79-   23.89 GHz   4) 
+Silicon monoxide (SiO)              42.519 GHz     42.47-   42.57 GHz   3)
+Silicon monoxide (SiO)              42.821 GHz     42.77-   42.86 GHz 
+Silicon monoxide (SiO)              42.880 GHz     42.83-   42.93 GHz
+Silicon monoxide (SiO)              43.122 GHz     43.07-   43.17 GHz 
+Silicon monoxide (SiO)              43.424 GHz     43.37-   43.47 GHz  
+Carbon monosulphide (CS)            48.991 GHz     48.94-   49.04 GHz 
+Deuterated formylium (DCO+)         72.039 GHz     71.96-   72.11 GHz   3) 
+Silicon monoxide (SiO)              86.243 GHz     86.16-   86.33 GHz 
+Formylium (H13CO+)                  86.754 GHz     86.66-   86.84 GHz 
+Silicon monoxide (SiO)              86.847 GHz     86.76-   86.93 GHz 
+Ethynyl radical (C2H)               87.300 GHz     87.21-   87.39 GHz   5) 
+Hydrogen cyanide (HCN)              88.632 GHz     88.34-   88.72 GHz   4) 
+Formylium (HCO+)                    89.189 GHz     88.89-   89.28 GHz   4) 
+Hydrogen isocyanide (HNC)           90.664 GHz     90.57-   90.76 GHz 
+Diazenylium (N2H)                   93.174 GHz     93.07-   93.27 GHz 
+Carbon monosulphide (CS)            97.981 GHz     97.65-   98.08 GHz   4) 
+Carbon monoxide (C18O)             109.782 GHz    109.67-  109.89 GHz 
+Carbon monoxide (13CO)             110.201 GHz    109.83-  110.31 GHz   4) 
+Carbon monoxide (C17O)             112.359 GHz    112.25-  112.47 GHz   6) 
+Carbon monoxide (CO)               115.271 GHz    114.88-  115.39 GHz   4) 
+Formaldehyde (H213CO)              137.450 GHz    137.31-  137.59 GHz   3),6) 
+Formaldehyde (H2CO)                140.840 GHz    140.69-  140.98 GHz 
+Carbon monosulphide (CS)           146.969 GHz    146.82-  147.12 GHz 
+Water vapour (H2O)                 183.310 GHz    183.12-  183.50 GHz 
+Carbon monoxide (C18O)             219.560 GHz    219.34-  219.78 GHz 
+Carbon monoxide (13CO)             220.399 GHz    219.67-  220.62 GHz   4) 
+Carbon monoxide (CO)               230.538 GHz    229.77-  230.77 GHz   4) 
+Carbon monosulphide (CS)           244.953 GHz    244.72-  245.20 GHz   6) 
+Hydrogen cyanide (HCN)             265.886 GHz    265.62-  266.15 GHz 
+Formylium (HCO+)                   267.557 GHz    267.29-  267.83 GHz 
+Hydrogen isocyanide (HNC)          271.981 GHz    271.71-  272.25 GHz 
+Dyazenulium (N2H+)                 279.511 GHz    279.23-  279.79 GHz 
+Carbon monoxide (C18O)             312.330 GHz    329.00-  329.66 GHz 
+Carbon monoxide (13CO)             330.587 GHz    330.25-  330.92 GHz 
+Carbon monosulphide (CS)           342.883 GHz    342.54-  343.23 GHz 
+Carbon monoxide (CO)               345.796 GHz    345.45-  346.14 GHz 
+Hydrogen cyanide (HCN)             354.484 GHz    354.13-  354.84 GHz 
+Formylium (HCO+)                   356.734 GHz    356.37-  357.09 GHz 
+Dyazenulium (N2H+)                 372.672 GHz    372.30-  373.05 GHz 
+Water vapour (H2O)                 380.197 GHz    379.81-  380.58 GHz 
+Carbon monoxide (C18O)             439.088 GHz    438.64-  439.53 GHz 
+Carbon monoxide (13CO)             440.765 GHz    440.32-  441.21 GHz 
+Carbon monoxide (CO)               461.041 GHz    460.57-  461.51 GHz 
+Heavy water (HDO)                  464.925 GHz    464.46-  465.39 GHz 
+Carbon (CI)                        492.162 GHz    491.66-  492.66 GHz 
+Water vapour (H218O)               547.676 GHz    547.13-  548.22 GHz 
+Water vapour (H2O)                 556.936 GHz    556.37-  557.50 GHz 
+Ammonia (15NH3)                    572.113 GHz    571.54-  572.69 GHz 
+Ammonia (NH3)                      572.498 GHz    571.92-  573.07 GHz 
+Carbon monoxide (CO)               691.473 GHz    690.78-  692.17 GHz 
+Hydrogen cyanide (HCN)             797.433 GHz    796.64-  789.23 GHz 
+Formylium (HCO+)                   802.653 GHz    801.85-  803.85 GHz 
+Carbon monoxide (CO)               806.652 GHz    805.85-  807.46 GHz 
+Carbon (CI)                        809.350 GHz    808.54-  810.16 GHz 
+                                                                        1): If Note 4) or Note 2) are not listed, the 
+                                                                            band limits are Doppler-shifted frequencies corresponding to radial 
+                                                                            velocities of +/- 300 km/s (consistent with line radiation occurring in 
+                                                                            our galaxy). 
+                                                                        2): An extension to lower frequencies of the allocation of 1400-1427 MHz 
+                                                                            is required to allow for the Doppler shifts for HI observed in distant 
+                                                                            galaxies. 
+                                                                        3): The current international allocation is not primary and/or does 
+                                                                            not meet bandwidth requirements. See: ITU-R Radio Regulations (Table 8) 
+                                                                            for more detailed information. 
+                                                                        4): Because these line frequencies are also being used for observing 
+                                                                            other galaxies, the listed bandwidths include Doppler shifts 
+                                                                            corresponding to radial velocities of up to 1000 km/s. It should be noted 
+                                                                            that HI has been observed at frequencies redshifted to 500 MHz, while 
+                                                                            some lines of the most abundant molecules have been detected in galaxies 
+                                                                            with velocities up to 50 000 km/s, corresponding to a frequency reduction 
+                                                                            of up to 17%.
+                                                                        5): There are six closely spaced lines associated with this molecule 
+                                                                            at this frequency. The listed band is wide enough to permit observations 
+                                                                            of all six lines. 
+                                                                        6): This line is not mentioned in Article 8 of the ITU-R Radio 
+                                                                            Regulations. 
