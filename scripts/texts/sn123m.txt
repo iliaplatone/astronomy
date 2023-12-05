@@ -1,0 +1,107 @@
+Page -420-
+
+10" 73™S$n(40 min.)
+
+4-15-70
+4.55 cm? x 8 mm Ge(Li)
+1 g/cm? Poly
+13cm
+
+50-123m-1
+
+10°
+
+108
+
+104
+
+random sum
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10'
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -421-
+123m$n(40 min.) Decay Scheme
+40 min.
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 128™Sn
+
+Detector: 4.55 cm2 x 8mm Ge (Li)
+
+Half Life: 40.06(1) min.
+Method of Production: 122Sn(n,y)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) cE, L, el) 1, (06) sl, 8
+160.32 0.05 100 85.7 04 [1
+170.9 0.7 0.007 0.004 4
+381.4 0.3 0.042 0.003 4
+541.8 0.4 0.02 0.003 4
+552.5 0.3 0.0103 0.0017 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+

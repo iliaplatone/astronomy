@@ -1,0 +1,99 @@
+Page -142-
+
+10° §6Cu(5.1 min.)
+
+4-3-70
+2.5 cm? x 8 mm Ge(Li)
+1 gicm? poly
+40cm
+29-66-1
+
+104
+
+511-Ann.Rad. “Cu
+
+108
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -143-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Cu(5.1 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+5.1 min. Nuclide: 66Cu Half Life: 5.120(14) min.
+1+ Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 65Cu(n,y)
+E, (keV) oE, 1, (re!) 14%) ol, §
+833.0 1.0 3.8 0.16 0.05 4
+1039.20 0.20 100 74 1.8 1
+1332.5 1.5 0.0028 0.0008 4
+Q=2642 4 1872.2 0.0004 0.0001 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey OEyy ly Gly ~ 1998 ENSDF Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.16%lll 9, 5 1872.20
+eo
+3
+
+7.2%. ay
+
+92.6%) Q4.
+
+ 
+
+   
+
+Table of Contents
+

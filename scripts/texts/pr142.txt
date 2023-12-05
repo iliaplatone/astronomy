@@ -1,0 +1,110 @@
+Page -568-
+10° 12Pr(19 hr.)
+
+4-10-70
+4.55 cm? x 8 mm Ge(Li)
+1.0 gicm? Poly
+6cm
+59-142-1
+
+108
+
+104
+
+DE
+
+GS
+S
+¢
+¢
++
+=
+=
+10
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -569-
+42Pr(19 hr.) Decay Scheme
+19 hr. 0
+
+   
+  
+
+Q=745.3
+EC=0.0164%
+
+Q=2162
+B- =99.9836%
+Xo
+XR
+o
+
+  
+   
+
+5x10'° yr. 142Ce eNid stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 142Pr
+Detector: 4.55 cm2 x 8 mm Ge (Li)
+
+Half Life: 19.12(4) hr.
+Method of Production: 141Pr(n,7)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, Ly (rel a) ol, 8
+508.8 0.5 0.023 0.004 4
+642.0 1.0 0.0022 4
+1575.6 0.5 100. 37 os | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, GEy, |, Gly - 1998 ENSDF Data
+

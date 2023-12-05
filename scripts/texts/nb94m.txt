@@ -1,0 +1,92 @@
+Page -297-
+10° *4mNIb(6.2 min.)
+
+8-4-72
+45 cm coaxial Ge(Li)
+no absorber
+5-10cm
+41-94m-1
+
+871
+
+104
+
+108
+
+impurity
+
+impurit
+40? purity
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -298-
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*"Nb(6.2 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+6.2 min. Nuclide: °4™Nb Half Life: 6.263(4) min.
+3+ 40. Detector: 45 cm3 coaxial Ge (Li) Method of Production: 93Nb(n,y)
+E, (keV) oE, 1, (re!) 1%) ol, §
+40.8 0.1 0.0731 0.0022 2
+—_ 702.627 0.019 0.70 0.0032 0.0004 4
+So Q=2045.1 871.099 0.018 100 0.50 0.06 1
+64 + 933.18 0.08 0.00075 4
+
+Ey, OEy, yy Oly ~ 1998 ENSDF Data
+
+-
+KR
+©
+0+ ¥ 0
+94
+3 5M O stable
+
+ 
+
+Table of Contents
+
+ 
+

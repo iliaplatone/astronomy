@@ -1,0 +1,124 @@
+Page -366-
+
+10° ™Pd(16 day)
+
+8-1-68
+2.5 cm? x 8 mm Ge(Li)
+unknown absorber
+18cm
+46-103-1
+
+108
+
+104
+
+108
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -367-
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 1°SPd
+Detector: 2.5 cm? 8 mm Ge (Li)
+
+Half Life: .16.991(19) day
+Method of Production: 1°4Pd (y,n)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) GE, Ly (rel) 1, 0) ol, §
+39.748 0.008 207 0.0683 0.0007 3
+53.290 0.010 0.004. 4
+62.41 0.03 3.76 0.0010 3
+241.88 0.05 4
+294.98 0.15 13.5 0.0028 | 0.0001 | 1
+317.72 0.05 0.077 4
+357.45 0.08 100 0.0221 | 0.0007 | 1
+443.79 0.05 0.043 4
+497.080 0.013 18.8 0.0040 | 0.0001 | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey GE), Ws oly - 1998 ENSDF Data
+
+5/2+
+
+103Pd(16 day) Decay Scheme
+
+16 day
+
+   
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents
+

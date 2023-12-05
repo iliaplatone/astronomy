@@ -1,0 +1,91 @@
+Page -416-
+108 3$n(115 day)
+
+41-27-71
+65 cm coaxial Ge(Li)
+0.357 gicm? Poly
+10cm
+
+50-113-3
+
+10*
+
+10° backscatter
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+Channel Number
+
+BR | Table of Contents [ AS
+Page -417-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"8Sn(115 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+115 day Nuclide: 118Sn Half Life: 115.09(4) day
+Detector: 65 cm coaxial (Li) Method of Production: 112 Sn (n,y)
+
+EY (keV) o EY |, (rel) \y (%) o ly Ss
+
+255.06 0.05 3.44 1.824 0.081 3
+
+—_ 382.97 0.0001 4
+
+Q=1 036 391.688 0.015 100 64.0 2.0 1
+
+638.03 0.08 0.0010 4
+
+646.80 0.10 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BE, oE,, ls ol, - 1998 ENSDF Data
+
+   
+
+1/24,3/2+ 1029.72
+
+ 
+
+ 
+
+Table of Contents im “Ee
+

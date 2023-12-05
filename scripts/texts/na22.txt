@@ -1,0 +1,84 @@
+Page -43-
+10° 22Na(2.6 yr.)
+
+2-14-73
+511-Ann.Rad. 65 cm? Coaxial Ge(Li)
+0.5 gicm? Cd sandwich
+
+25 cm
+
+11-221
+
+108
+
+backscatter
+peak
+
+104
+
+10
+
+Counts/Channel/Second
+
+sum
+
+10? 511 + 1274
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -44-
+
+ 
+
+ 
+
+ 
+
+ 
+
+?2Na(2.6 yr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+2.6 yr. Nuclide: 22Na Halt Life: 2.6019(4) yr.
+3+ 0 Detector: 55 cm coaxial Ge (Li) Method of Production: Ne(3He,p)
+22 E, (keV) oE 1, (rel) L, (6) sl s
+Q=2841.2 11 Na Ann. [511,006 7 00 176.0 oe 1
+. 1274.53 0.02 62.2 99.944 | 0.014 | 1
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+0
+stable ia Ne
+
+   
+
+Table of Contents
+

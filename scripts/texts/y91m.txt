@@ -1,0 +1,67 @@
+Page -279-
+10° sim¥(49 min.)
+
+4-14-66
+2.5 cm? x 8 mm Ge(Li)
+0.5 g/cm? poly
+3cm
+
+39-91m-2
+
+104
+
+10
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -280-
+s1my¥(49 min.) Decay Scheme
+
+| 49 min.
+
+a=0.054
+
+er
+
+58 da
+30Y y
+
+555
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide: 91MY Half Life: 49.71(4) min.
+Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: U(n,f)chem.
+E, (keV) OE, 1, (el) 1, (%) ol §
+[55557 | 005 [| 100 | 949 [| 03 | 1 |
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+Table of Contents 7
+

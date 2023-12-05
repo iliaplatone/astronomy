@@ -1,0 +1,113 @@
+Page -722-
+10° 180™Ta(8.1 hr.)
+
+4-30-66
+2.5 cm? x 4 mm Ge(Li)
+no absorber
+3cm
+73-180m-1
+
+Hf K
+x-rays:
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+sum (Koa+Ka)
+Vil
+sum (Ka+Kf)
+sum (Ko.+93)
+
+10°
+
+ 
+
+10°
+0 50 100 150 200 250 300 350 400 450 500
+
+Channel Number
+
+Table of Contents
+
+   
+Page -723-
+180mTa(8.1 hr.) Decay Scheme
+, 8.1 hr.
+4
+
+ 
+   
+
+Q=708
+Q=854 B-=14%
+
+EC=86%
+
+co
+o
+
+O+ 161%
+Soe Noo able 180
+72
+
+103
+
+ 
+
+ 
+
+10.4%) 04 0
+
+Hf aw stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 180 Tq
+Detector: 2.5 cm2 x 4 mm Ge (Li)
+
+Half Life: 8.152(6) hr.
+Method of Production: 180Ta(y,y)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+E, (keV) oE, L, (rel) 1 () ol, §
+93.40 0.20 100. 4.51 0.16 | 1
+103.6 0.2 18.0 0.81 023 | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+

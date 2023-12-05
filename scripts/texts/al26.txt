@@ -1,0 +1,91 @@
+Page -51-
+10° 26A1(7.1x105 yr.)
+
+10-16-71
+55 cm? coaxial Ge(Li)
+511-Ann.Rad. no absorber
+
+3cm
+
+13-26-1
+
+108
+
+104
+
+108
+sum
+
+(511 + 1808)
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -52-
+6Al(7.1x10° yr.) Decay Scheme
+
+7.1x10° yr.
+5+ 0
+Q=4004.19
+
+   
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 2A Half Life: 7.17(24) x 105 yr.
+Detector: 55 cm3 coaxial Ge (Li) Method of Production: 26Mg(p,n)
+E, (keV) oE, \, (rel) 1%) ol, Ss
+Ann.[_511.006 100 161.9 0.6 1
+1129.67 0.10 15 2.50 0.20 3
+1808.65 0.07 63.3 99.76 0.04 1
+2938. 0.20 0.24 0.04 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+Table of Contents
+

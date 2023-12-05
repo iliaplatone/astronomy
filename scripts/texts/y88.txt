@@ -1,0 +1,103 @@
+Page -275-
+
+10” ®8¥(106 day)
+
+12-3-71
+55 cm coaxial Ge(Li)
+no abosrber
+20cm
+39-88-5
+
+10°
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10'
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -276-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*¥(106 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+106 day Nuclide: 88Y Hall Life: 106.65(4) day
+4- Q _ Detector: 55 cms coaxial Ge (Li) Method of Production: 88Sr(p,n)
+
+E, keV) oE, Ly (tel) 146) ol
+
+Ann. 511.006 0.41 0.04 4
+
+850.6 0.8 0.066 0.013 4
+
+898.042 0.003 92.12 93.7 0.3 1
+
+1382.2 1.0 0.021 0.006 4
+
+1836.063 0.012 100 99.2 0.3 1
+
+2734.0 0.5 0.54 0.71 0.07 1
+
+3219.7 2.0 0.007, 0.0070 0.0020 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, OEy, ly Oly ~ 1998 ENSDF Data
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+

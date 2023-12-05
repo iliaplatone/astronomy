@@ -1,0 +1,133 @@
+Page -486-
+10° 1261(13 day)
+
+1-21-66
+2.5 cm? x 4 mm Ge(Li)
+0.5 gicm? Poly
+3cm
+53-126-1
+
+108
+
+104
+
+3
+G
+<
+Sc
+a4
+w
+=
+to
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -487-
+
+ 
+
+ 
+
+     
+
+ 
+
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"61(13 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+13 day Nuclide: 126] Half Life: 13.11(5) day
+128] Detector: 2.5 cm2 x 4 mm Ge (Li) Method of Production: 127I(y,n )
+
+Q=2155 Q=1258 E, (keV) oE L, (rel) I, (%) ol Ss
+
+10) ‘Y Y ¥ ¥ Y
+
+EC=56.3% B-=43.7% 388.633 0.011 100. 34, 3. [4
+
+491.243 0.011 9.5 2.86 0.25 2
+
+Ann. 511.006 5.8 2.3 0.3 2
+
+666.331 0.012 94.0 33.1 24 1
+
+695. 0.0002 4
+
+753.819 0.013 11.6 42 0.3 1
+
+879.876 0.013 25 0.76 0.07 | 1
+
+1206.8 0.3 0.0004 0.0001 4
+
+1378.76 0.0024 0.0002 4
+
+1420.19 0.03 0.85 0.29 0.02 | 1
+
+2045.09 0.05 0.0046 0.0004 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+51e
+
+nN | Table of Contents
+
+Ey OEyy ly Oly ~ 1998 ENSDF Data
+
+ 
+

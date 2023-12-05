@@ -1,0 +1,275 @@
+Page -519-
+108 134Cs(2.0 yr.)
+
+12-16-71
+55 cm? coaxial Ge(Li)
+1 gicm? Poly
+10cm
+55-134-1
+
+795
+
+10°
+
+10*
+
+108
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+       
+
+000 200 400 600 800 2000
+3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+2000 2200 2400 2600 2800
+
+   
+
+Table of Contents
+Page -520-
+134Cs(2.0 yr.) Decay Scheme
+2.0 yr.
+
+4+
+
+  
+  
+   
+
+Q=1229
+EC=0.0003%
+
+Q=2058.7
+B-=99.9997%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sy
+2g 1988.22
+oS Vg, 1643.33
+05
+© xf w 1400.59
+© 2+ ov 9. LO. 1167.96
+etme o So Oo o°
+stable 134y, = ~- FF Iss
+54AC 0.008%.\o, W VY VES
+So
+bow
+GAMMA-RAY ENERGIES AND INTENSITIES zt
+Nuclide: 184Cs Half Life: 2.0648(10) yr. 14Ba stable
+Detector: 55 cm coaxial Ge (Li) Method of Production: 133Cs(n,y)
+E, (keV) oE, ly (rel) 1, (%) oly s
+232.6 0.0014 4
+242.738 0.008 0.027 0.003 | 4
+326.589 0.013 0.0162 | 0.0010 | 4
+475.365 0.002 1.86 1.486 0010 | 3
+563.246 0.005 8.0 8.35 004 | 2
+569.331 0.003 15.3 15.38 0.06 | 1
+604.721 0.002 100. 97.62 0.03 | 1
+795.864 0.004 87.0 85.53 0.04 | 1
+801.953 0.004 8.8 8.69 0.04 | 1
+847.00 0.20 0.0003 | 0.0001 | 4
+1038.610 0.007 1.05 0.988 0.004 | 1
+1167.968 0.005 1.96 1.789 0.007 | 1
+1365.185 0.007 3.26 3.014 0.012 | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, \ys ol, - 1998 ENSDF Data
+
+   
+
+Table of Contents
+-517-
+
+Page
+105
+
+>
+=
+£
+Q
+N
+x
+D
+°°
+E
+3
+
+4/16/70
+4.55 cm? x 8 mm Ge(Li)
+
+unknown absorber
+unknown source distance
+
+55-134m-1
+
+104
+
+3} r=)
+
+puosas/jauueyo/sjunog
+
+ 
+
+10°
+
+10°
+
+2000
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+Channel Number
+
+ 
+
+z
+2
+=
+eo
+2
+=
+3
+Oo
+Sm)
+3
+2
+S
+e
+
+ 
+Page -518-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4mCs(2.9 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+2 9 h r Nuclide: 134™Cs Half Life: 2.903(8) hr.
+. . Detector: 4.55 cm2 x 8 mm Ge (Li) Method of Production: 133Cs(n,7)
+~ E, (keV) oO EY 1 (el) i (%) o \y Ss
+11.242 0.007 1.08 0.07 4
+127.502 0.003 100 12.6 0.4 1
+138.733 0.011 0.0039 0.0003 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, oF, Ws ol, ~ 1998 ENSDF Data
+
+127
+
+134 2.0 vr.
+z4CS Oyr
+
+   
+
+Table of Contents
+

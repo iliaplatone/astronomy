@@ -1,0 +1,75 @@
+Page -391-
+
+108 109Cqd(462 day)
+
+7-23-70
+30 mm? x 3 mm (Si(Li)
+no absorber
+1.75 cm
+48-109-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -392-
+
+109Cd(462 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+462 day Nuclide: 19°C
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 462.6(4) day
+5/24 0 Detector: 30 mm2x 3 mm Si (Li) Method of Production: 109Ag(p,n )
+E, (keV) OE, 1, (el) 1, (%) ol Ss
+Q=214 48Cd [88.034 | 0.001 | 100 | 361 | o10 [1 |
+
+ 
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+1100%
+39 sec. co
+
+©
+1/2- 0
+stable 109
+
+a7Ag
+
+ 
+
+Table of Contents
+
+ 
+

@@ -1,0 +1,87 @@
+Page -63-
+10° 4°K(1.2x10° yr.)
+
+1-6-72
+55 cm® coaxial Ge(Li)
+no absorber
+~5cm
+19-40-1
+
+104
+
+10 DE—511
+‘Ann.Rad.
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -64-
+4°K(1.2x10° yr.) Decay Scheme
+
+1.2x10° yr.
+
+   
+ 
+
+Q=1311.09
+
+stable 40
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 40K Half Life: 1.277(8) x 109 yr.
+Detector: 55 cm3 coaxial Ge(Li) Method of Production: Natural
+
+ 
+
+B- =89.28%
+
+20 Ca
+
+ 
+
+ 
+
+E (keV) oE, L (el 14 (06) sl, 8
+Ann. 511.006 0.002 4
+1460.83 100 10.67 0.13 | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+Table of Contents : =}
+

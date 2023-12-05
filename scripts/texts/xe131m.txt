@@ -1,0 +1,54 @@
+Page -509-
+
+10° 1simXe(11 day)
+
+11-20-66
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+Xe K x-rays 30m
+54-131m-1
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -510-
+131mXe(11 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+11 day Nuclide: 181™Xe Half Life: 11.84(7) day
+Detector: 2.5 cm2 x 8mm Ge (Li) Method of Production: U(n,f) chem
+
+ 
+
+ 
+
+11/2-
+
+ 
+
+E, (keV) OE, 1, (el) 1, (%) ol Ss
+[163.93 | 0008 | 100 | 1.95 | 006 | 1 |
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+ 
+
+ 
+
+Table of Contents [- ( AS
+

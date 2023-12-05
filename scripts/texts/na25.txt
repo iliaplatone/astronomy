@@ -1,0 +1,125 @@
+Page -47-
+10* ?5Na(59 sec.)
+2-3-69
+511-Ann.Rad. 4.55 cm? x 8 mm Ge(Li)
+no absorber
+
+389 1125
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10'
+
+ 
+
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+ 
+
+ER | Table of Contents
+Page -48-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5Na(59 sec.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+59 sec. Nuclide: 25Na Half Life: 59.1(6) sec.
+Detector: 4.55 cm 2x 8mm Ge(Li) Method of Production: 25 Mg(n,p)
+
+E, (keV) cE, 1 (rel) 14 (%) ol, 8
+
+389.7 83 12.8 0.7 1
+
+585.03 85 13.0 0.7 1
+
+Q=3835.3 836.84 0.104 0.006 4
+
+974.72 100 15.0 0.8 1
+
+989.85, 0.166 0.010 4
+
+1379.53 0.231 0.014 4
+
+1611.711 67 9.5 0.5 1
+
+1964.53 0.147 0.008 4
+
+2216.32 0.094 0.005 4
+
+2801.3 0.049 0.003 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+ 
+
+    
+ 
+
+ 
+
+ 
+
+9.45% \\7/0-+ g 1611.76
+&
+27.4 bys | “9 974.74
+. i! 45
+3.8
+-
+1/2 oO. 5 585.04
+
+62.5%
+
+ 
+
+ 
+
+Table of Contents [— AS
+

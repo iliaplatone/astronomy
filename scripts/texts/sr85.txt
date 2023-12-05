@@ -1,0 +1,221 @@
+Page -264-
+
+10° ®Sr(64 day)
+
+12-3-71
+55 cm? coaxial Ge(Li)
+no absorber
+10cm
+38-85-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -265-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+85
+Sr(64 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+64 day Nuclide: 85Sr Half Life: 64.84 (2) day
+9/2+ 0 Detector: 55 cm coaxial Ge (Li) Method of Production: 85Rb(p,n)
+
+E, (keV) oE, 1, (rel) 1, (26) ol, s
+
+129.80 0.05 0.0005 4
+
+151.18 0.03 0.0012 0.0009 4
+
+354.06 0.05 4
+
+362.82 0.00 0.0010 4
+
+514.007 0.002 100 96. 4. 1
+
+716.87 0.05 0.0003 4
+
+868.06 0.05 0.0120 0.0007 4
+
+951.0 0.5 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+   
+
+Table of Contents
+Page -262-
+
+10° 85mSr(67 min.)
+
+9-18-66
+2.5 cm? x 4 mm Ge(Li)
+no absorber
+5cm
+38-85m-1
+
+104
+
+10
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -263-
+85mSr(67 min.) Decay Scheme
+67 min.
+
+      
+
+IT=86.6%
+
+Q=1065
+EC=13.4%
+
+=
+lO
+=
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 85™Sr
+Detector: 2.5 cm2 x 4 mm Ge (Li)
+
+Half Life: 67.63 (4) min.
+Method of Production: 84Sr(n,y)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) GE, |, (rel) 1, (%) ol, s
+6.92 0.05 0.000004 4
+129.82 0.04 0.15 0.04 4
+151.194 0.015 8.6 12.9 0.7 1
+231.860 0.020 100 84.4 2.2 1
+238.78 0.05 0.5 0.277 0.007 3
+281.01 0.03 0.0004 0.0002 4
+450.79 0.05 0.0108 0.0005 4
+580.64 0.05 0.00088 0.00009 4
+731.797 0.015, 0.0147 0.0008 4
+768.5, 1.0 0.00030 0.00002 4
+919.8 0.9 0.00010 0.00005 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, GEys |, Gly ~ 1998 ENSDF Data
+
+Table of Contents
+
+ 
+
+ 
+

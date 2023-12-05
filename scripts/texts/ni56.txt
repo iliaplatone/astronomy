@@ -1,0 +1,121 @@
+Page -126-
+
+10° 56Ni(5.9 day)
+12-22-71
+. 45 cm3 coaxial Ge(Li)
+3 no absorber
+c tem
+c 28-56-1
+c
+108 <
+7502 © 749—= 811
+sum
+(158 + 269)
+40° sum
+(158 + 480)
+Ts
+6
+oO
+®
+QD
+oO
+=
+© 102
+co
+9
+2 —_—
+c
+3 1377 °’N
+
+10°
+
+sum (158 + 749)
+sum (158 + 811)
+
+sum (269 + 811)
+
+sum (811 + 480)
+
+anf
+
+10°
+
+sum (158 + 1561)
+
+ 
+
+     
+
+000 200 400 600 800 2000
+3000 3200 3400 3600 3800 4000
+Channel Number
+
+2000 2200 2400 2600 2800
+
+   
+
+Table of Contents
+Page -127-
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+56Ni
+Ni(5.9 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+9.9 day Nuclide: 5SNi Half Life: 5.9(1) day
+Son Ti Detector: 45 cm coaxial Ge (Li) Method of Production: 58Ni(y,2n)
+33N I E, (keV) oE, \, (rel) 1, (%) ol, s
+158.38 0.03 100 98.8 1.0 1
+269.5 0.020 34.4 36.5 0.8 1
+2 480.440 0.020 32.2 36.5 0.8 2
+“ Ann. 511.006 0.0014 4
+S 749.95 0.03 48.4 49.5 1.2 1
+2 ¥ 811.85 0.03 75.0 86.0 0.9 1
+BR 1561.80 0.05 13.3 14.0 0.6 1
+Pras E,, GE,, ly, Gl, - 1998 ENSDF Data
+o
+ry) r
+y 89
+~N
+4+ 0
+77 day 39 Co
+
+   
+
+Table of Contents
+

@@ -1,0 +1,68 @@
+Page -562-
+10° ™Ce(32 day)
+
+9-19-72
+65 cm’ coaxial Ge(Li)
+1/8 Inch Poly
+8cm
+58-141-1
+
+108
+
+104
+
+La and Pr
+K x-rays
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -563-
+
+1Ce(32 day) Decay Scheme
+
+ 
+
+ 
+
+tabl
+Pr stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide: '41Ce Half Life: 32.501 (5) day
+Detector: 65 cm$ coaxial Ge (Li) Method of Production: 140Ce(n,7)
+E, (keV) GE, 1, (rel) 1, (%6) Gl, Ss
+[145.4405 | 0.0028 | 100. | 482 | 03 | 1 |
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+Table of Contents [— AS
+

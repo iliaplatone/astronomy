@@ -1,0 +1,85 @@
+Page -418-
+
+10° ™7™Sn(13 day)
+
+4-27-70
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+3cm
+50-117m-1
+
+104
+
+10
+
+sum
+(158 + K x-rays)
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -419-
+"7mSn(13 day) Decay Scheme
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 1177™Sn
+
+Detector: 2.5 cm2 x 8 mm Ge (Li)
+
+Half Life: 13.60(4) day
+Method of Production: 116Sn(n,y)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, L, (rel) a) ol, §
+156.02 0.03 2.59 2.113 0.012 3
+158.56 0.02 100 86.4 0.4 1
+314.3 0.3 0.0004 4
+Ey, OE, ly, Gly - 1998 ENSDF Data
+_ SEE
+Le
+

@@ -1,0 +1,150 @@
+7-31-70
+4.5 cm? x 8 mm Ge(Li)
+no absorber
+1om
+30-72-1
+
+™7n(46 hr.)
+
+|
+
+i
++
+
+ates
+
+shea-x "y +62
+
+sKei-x 6H
+jusosaiony
+
+Page -160-
+104
+108
+0
+
+puosas/jauueyo/sjunog
+
+ 
+
+10°
+
+10°
+
+2000
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+Channel Number
+
+ 
+
+z
+2
+=
+eo
+2
+=
+3
+Oo
+Sm)
+3
+2
+S
+e
+
+ 
+Page -161-
+
+”7n(46 hr.) Decay Scheme
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 72Zn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 46.5(1) hr.
+
+Detector: 4.5 cm2 x 8 mm Ge (Li) Method of Production: 74Ge(y,2p)
+E, (keV) oE, 1, (rel) A) sls
+16.4 0.3 8.3 17 4
+41.90 0.20 0.83, 0.08 4
+46.80 0.20 0.58 0.08 4
+79.40 0.20 28 1.74 0.08 3
+88.70 0.10 2.0 2.16 0.08 3
+102.80 0.10 25 2.32 0.08 3
+112.10 0.10 24 2.07 0.08 3
+144.70 0.10 100 82.90 0.20 1
+191.50 0.20 11.6 9.37 0.17 2
+
+Ey oE,, ls oly - 1998 ENSDF Data
+i
+Le
+

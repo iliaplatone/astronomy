@@ -1,0 +1,89 @@
+Page -49-
+10° 27NIg(9.4 min.)
+
+3-20-70
+2.5 cm? x 8 mm Ge(Li)
+1 g/cm? poly
+10cm
+
+12-27-1
+
+104
+
+108
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -50-
+27Mg(9.4 min.) Decay Scheme
+
+9.4 min.
+1/2
+
+  
+
+843.76
+
+stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 2”Mg
+Detector: 2.5 cm 2 x 8 mm Ge(Li)
+
+Half Life: 9.46(1) min.
+Method of Production: 26 Mg (n,7)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, |, (rel) 1 (%) ol, s
+170.686 0.015 1.1 0.80 0.10 3
+843.76 0.03 100 71.8 0.4 1
+1014.44 0.04 39 28.0 0.4 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+

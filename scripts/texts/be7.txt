@@ -1,0 +1,89 @@
+Page -39-
+10° 7Be(53 day)
+
+12-6-71
+55 cm coaxial Ge(Li)
+no absorber
+5cm
+47-1
+
+108
+
+104
+
+backscatter
+peak
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -40-
+
+ 
+
+7Be(53 day) Decay Scheme
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+53 day Nuclide: 7Be
+3/2- 0
+
+Detector: 55 cm3 coaxial Ge (Li)
+
+Half Life: 53.29 (7) day
+
+Method of Production: Li(p,n)
+
+ 
+
+    
+
+Q=861.815
+
+477
+
+ 
+
+3/2- Qf-89.48%.
+
+stable 7h:
+3 Li
+
+ 
+
+Table of Contents
+
+E, (keV) oE, L, (el
+
+Ly(%)
+
+oly
+
+s
+
+ 
+
+[477.606 | 0.002 | 100
+Ey, GE,, |, ol, - 1998 ENSDF Data
+
+10.52
+
+| 006 [ 1 |
+

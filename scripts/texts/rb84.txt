@@ -1,0 +1,132 @@
+-245-
+105
+
+Page
+
+2-16-66
+2.5 cm? x 4 mm Ge(Li)
+1 g/cm? poly
+3cm
+37-84-1
+
+=
+>
+&
+ss
+N
+oO
+LS
+2
+o
+&
+
+511
+
+Ann.Rad.
+
+104
+
+3} 6
+
+puosas/jauueyo/sjunog
+
+ 
+
+10°
+
+10°
+
+1000
+
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+Channel Number
+
+ 
+
+z
+2
+=
+eo
+2
+=
+3
+Oo
+Sm)
+3
+2
+S
+e
+
+ 
+Page -246-
+
+ 
+
+*4Rb(32 day) Decay Scheme
+32 day
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: ®84Rb
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 32.77(14) day
+Detector: 2.5 cm2 x 4 mm Ge (Li) Method of Production: 85Rb(y,n)
+EY (keV) o EY |, (rel) 1 (%) o i Ss
+511.002 25.9 12 2
+881.6041 0.0016 100 69.0 1.6 1
+1016.158 0.011 0.61 0.349 0.013 | 2
+1897.751 0.011 1A 0.74 0.03 2
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+

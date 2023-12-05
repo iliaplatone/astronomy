@@ -1,0 +1,70 @@
+Page -53-
+10° 28A1(2.2 min.)
+
+3-26-70
+4.55 cm? x 0.8 mm Ge(Li)
+1 gicm? poly
+40cm
+13-28-1
+
+104
+
+511-Ann.Rad.
+
+108
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -54-
+?8A](2.2 min.) Decay Scheme
+
+2.2 min.
+O+
+
+     
+    
+
+Q=4642.25
+
+1778.91
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 28A\|
+
+Half Life: 2.241(1) min.
+
+ 
+
+Table of Contents [— AS
+
+ 
+
+Detector: 4.55 cm? x 8 mm. Ge(Li) Method of Production: 27Al(n,y)
+E, (keV) cE, L, (rel) 1, (26) sl, 8
+[1778.85 | 003 | 100 | 100 | 1 [1 4
+
+ 
+
+Ey, GEy, |, Gly - 1998 ENSDF Data
+

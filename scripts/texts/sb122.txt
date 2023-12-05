@@ -1,0 +1,125 @@
+Page -438-
+
+10° 22Sb(2.7 day)
+
+4-3-70
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+10cm
+51-122-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -439-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1?2Sb(2.7 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+>» 27day 4 Nuclide: 122Sb Half Life: 2.7238(2) day
+Detector: 4.55 cm2 x 8mm Ge (Li) Method of Production: 121Sb(y,n)
+
+E, (keV) oE, L, (rel) a) ol, §
+
+Ann. 511.006 0.0125 4
+
+564.24 0.04 100 72.42 0.16 1
+
+615.0 0.4 0.012 0.004 4
+
+692.65 0.04 5.6 3.95 0.13 1
+
+793.3 0.4 0.017 0.004 4
+
+1140.46 0.10 1.2 1
+
+1188.0 1.0 0.0043 0.0007 4
+
+1256.93 0.04 1.0 0.83 0.04 1
+
+1752.4 1.5 0.0094 0.0014 4
+
+0+
+stable 122
+509N
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, OEy, |, Gly - 1998 ENSDF Data
+
+  
+
+ 
+
+©
+9 st
+a ©
+rr wo)
+¥en
+122 stable
+521e
+
+ 
+
+Table of Contents
+

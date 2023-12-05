@@ -1,0 +1,63 @@
+Page -600-
+
+10° 151§m(90 yr.)
+unknown date
+
+30 mm? x 3 mm Si(Li)
+no absorber
+
+Eu and Sm 1.75 om
+K x-rays
+
+62-151-1
+
+108
+
+104
+
+108
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -601-
+
+ 
+
+ 
+
+ 
+
+ 
+
+81$m(90 yr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+/2 90 yr. 0 Nuclide: 181Sm Half Life: 90(8) yr.
+22 Detector: 30 mm2 x 3 mm Si(Li) Method of Production: 15°Sm(n,y)
+EY (keV) oE, |, (rel) 1 (%) ol, s
+[21.543] 0.003 | 100. | 0.0314 | 0.0022] 1 |
+
+ 
+
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+ 
+
+151 stable
+
+ 
+
+Table of Contents [— AS
+

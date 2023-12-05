@@ -1,0 +1,128 @@
+Page -111-
+10” 5°Fe(44 day)
+
+9-20-72
+65 cm? coaxial Ge(Li)
+1/8 inch poly
+15cm
+26-59-1
+
+10°
+
+108
+
+334
+DE
+
+382” 511-Ann.Rad.
+
+104
+
+Counts/Channel/Second
+
+10°
+
+10?
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -112-
+
+59Fe(44 day) Decay Scheme
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1291
+1099
+
+ 
+
+stable
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 59Fe Half Life: 44.503(6) day
+Detector: 65 cm$ coaxial Ge (Li) Method of Production: 58Fe(n,y)
+
+E, (keV) oE, 1, (rel) 1, (%6) ol, s
+
+142.651 0.002 154 1.02 0.04 2
+
+189. 0.0009 0.0009 | 4
+
+192.349 0.005 47 3.08 0.12 1
+
+334.8 0.2 0.47 0.270 0.017 3
+
+382.0 0.4 0.05 0.018 0.003 | 4
+
+1099.251 0.004 100 56.5 1.8 1
+
+1291.596 0.007 77 43.2 14 1
+
+1481.7 0.2 0.11 0.059 0.006 | 3
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+Table of Contents
+
+ 
+
+ 
+

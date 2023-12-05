@@ -1,0 +1,68 @@
+Page -361-
+10° 103mRh(56 min.)
+
+6-20-72
+30 mm? x 3 mm Si(Li)
+no absorber
+5cm
+45-103m-1
+
+108
+
+RhL
+series
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+te a ty
+
+TEST Pe
+
+10°
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -362-
+1o3mRh(56 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+56 min. Nuclide: 109™Rh Half Life: 56.114(9) min.
+
+Detector: 30 cm2 x 3 mm Si (Li) Method of Production: 192Pd(n,y)B.
+E, (keV) cE, L, (el) 1, (%6) ol §
+[39.755 [ 0.012 | 100 | 0.068 | 0.005 [ 1 |
+oa
+eo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+1/2- v )
+103 stable
+asRn
+
+ 
+
+Table of Contents [- ( AS
+

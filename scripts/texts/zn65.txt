@@ -1,0 +1,91 @@
+Page -151-
+10° 5Z7n(244 day)
+
+4-19-66
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+3cm
+30-65-1
+
+104
+
+511-Ann.Rad.
+
+10
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -152-
+®7n(244 day) Decay Scheme
+
+244d
+ae ay,
+
+ 
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: ®5Zn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 244.3(3) day
+
+Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 64Zn(n,y)
+E, (keV) oE, 1, (rel) A) ol, s
+344.95 0.20 0.0030 0.0003 | 4
+511.006 2.78 0.04 2
+770.60 0.20 0.0030 0.0003 | 4
+1115.546 0.004 100 50.60 0.24 1
+
+Ey oE,, ls oly - 1998 ENSDF Data
+an
+
+| ZB
+
+Table of Contents
+

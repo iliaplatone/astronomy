@@ -1,0 +1,207 @@
+Page -122-
+107 Co(5.2 yr.)
+
+9-29-70
+55 cm coaxial Ge(Li)
+no absorber
+20 cm
+27-60-1
+
+10°
+
+1173 4339
+
+108
+
+104 511-Ann.Rad.
+
+Counts/Channel/Second
+
+10°
+
+10?
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -123-
+6C0(5.2 yr.) Decay Scheme
+
+ 
+
+6OnE: stable
+38Ni
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: ©°Co Half Life: 5.2714(5) yr.
+Detector: 55 cm coaxial Ge (Li) Method of Production: 59Co(n,y)
+
+E, (keV) oE, \, (rel) 1 (06) ol, s
+
+346.93 0.07 0.0076 0.0005 | 4
+
+826.28 0.09 0.0076 0.0008 | 4
+
+1173.237 0.004 100 99.9736 | 0.0007 | 1
+
+1332.501 0.005 100 99.9856 | 0.0004 | 1
+
+2158.77 0.09 0.0011 0.0002 | 4
+
+2505. 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+Table of Contents
+Page -120-
+
+10° 50™C9(10 min.)
+
+4-22-70
+30 mm? x 3 mm Si(Li)
+no absorber
+
+. 1.75 om
+Co K x-rays 27-60m-1
+
+108
+
+Si x-ray
+escape
+
+104
+
+10
+
+random sum
+
+spectrum
+In and Sn K x-rays
+
+from fluoresence
+of Detector
+Contact structure
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -121-
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+°™Co0(10 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+10 min. Nuclide: 6°"Co Half Life: 10.467(6) min.
+2+ Detector: 33 mm2 x 3 mm Si(Li) Method of Production: 59Co(n,y)
+E, (keV) oO EY \ (rel) ly (%) oO ly Ss
+
+58.603 0.007 100 2.04 0.06 1
+
+Q=1658 826.28 0.09 0.0077 4
+
+1332.501 0.005 0.24 0.03 4
+
+2158.77 0.09 0.0007, 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey GEy, ly Gly - 1998 ENSDF Data
+
+ 
+
+foe}
+0+ "a 0
+GONE: Stable
+38Ni
+
+   
+
+Table of Contents
+

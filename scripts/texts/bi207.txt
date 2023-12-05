@@ -1,0 +1,137 @@
+Page -796-
+
+Counts/Channel/Second
+
+ 
+
+10°
+
+106
+
+Pb K x-rays
+
+10*
+
+10°
+
+10?
+
+sum (1063+x-rays.
+
+10°
+
+10°
+
+Channel Number
+
+Table of Contents
+
+o
+>
+&
+£
+x
++
+a
+©
+2:
+E
+>
+a
+
+sum (569+1
+
+207Bi(31 yr.)
+9-21-71
+55 cm’ coaxial Ge(Li)
+1.18 gicm? Be
+10cm
+83-207-1
+
+ 
+
+ 
+Page -797-
+207Bi(31 yr.) Decay Scheme
+31 yr.
+
+*33Bi
+
+   
+
+Q=2398.8
+
+ 
+
+ 
+
+ 
+
+ 
+
+r
+g ww
+t bl
+stable 27Pb
+
+   
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 2°7Bi
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 31.55(5) yr.
+
+Detector: 55 cm3 coaxial Ge (Li) Method of Production: 207Pb(p,n)
+EY (keV) oE, |, (rel) ly (%) ol, Ss
+328.12 0.10 0.0007 0.0001 | 4
+511.006 0.024 4
+569.702 0.002 100. 97.74 0.03 1
+897.80 0.10 0.25 0.121 0.008 | 4
+1063.662 0.004 77.0 74.50 0.20 1
+1442.20 0.20 0.13 0.130 0.003 | 4
+1770.237 0.010 7.39 6.87 0.04 1
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+i
+Le
+

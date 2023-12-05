@@ -1,0 +1,114 @@
+Page -61-
+
+5
+10 38K(7.6 min.)
+511-Ann.Rad. 2-2-69
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+Som
+
+19-38-1
+
+104
+
+108
+
+10?
+
+Counts/Channel/Second
+
+10'
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -62-
+
+38K(7.6 min.) Decay Scheme
+
+7.6 min.
+3+ (}
+
+   
+  
+
+Q=5913.1
+
+ 
+
+ 
+
+2 %
+2 99.849%
+BR
+o
+rr
+5 N
+" 1.<0.6%
+
+t
+staple 38 Ar
+
+—_
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 98K
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Half Life: 7.64(2) min.
+Detector: 4.55 cm2 x 8 mm Ge(Li) Method of Production: 39 K(y,n)
+EY (keV) o EY |, (rel) 1 (%) o Wy S
+
+511.006 197.0 0.8 1
+
+1769.13 0.0094 0.0013 | 4
+
+2167.405 100 99.858 0.013 1
+
+3936.43 0.142 0.011 4
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+Ae
+| ZB
+
+Table of Contents
+

@@ -1,0 +1,94 @@
+Page -664-
+
+10° 164H0(29 min.)
+
+1-16-66
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+
+Dy & Er Som
+K x-rays.
+
+67-164-1
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+ 
+
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -665-
+164H19(29 min.) Decay Scheme
+29 min.
+
+ 
+  
+
+Q=986.8
+EC=60%
+
+  
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 164Ho
+Detector: 2.5 cm? x 8 mm Ge (Li)
+
+Half Life: 29(1) min.
+Method of Production: 165Ho(y,n)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey (keV) o E i (rel) ly (%) o ly Ss
+73.392 0.005 1.98 0.24 1
+91.39 0.03 2.3 0.4 1
+688.44 0.15
+761.8 0.2
+
+Eyy OEy, lyy Oly ~ 1998 ENSDF Data
+

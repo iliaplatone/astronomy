@@ -1,0 +1,87 @@
+Page -233-
+10° 85Kr(10 yr.)
+
+1-15-73
+65 cm coaxial Ge(Li)
+1.26 gicm? Be
+10cm
+
+36-85-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -234-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Kr(10 yr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+10 yr. Nuclide: 85Kr Half Life: 10.756 (18) yr.
+Detector: 65 cm3 coaxial Ge (Li) Method of Production: U(fission)
+
+EY (keV) oO BE (rel) yy (%) oO \ Ss
+
+129.81 0.02 4
+
+151.18 0.03 4
+
+362.81 0.04 4
+
+513.997 0.005 100 0.4340 0.0100 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, oF, ls oly - 1998 ENSDF Data
+
+ 
+
+Table of Contents
+
+   
+

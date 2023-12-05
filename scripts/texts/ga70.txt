@@ -1,0 +1,97 @@
+Page -169-
+
+10° 7Ga(21 min)
+6-7-70
+4.55 cm? x 8 mm Ge(Li)
+1 g/cm? poly
+10cm
+
+31-70-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -170-
+”Ga(21 min.) Decay Scheme
+21 min
+
+     
+
+ 
+
+Q=654.7 Q=1659
+EC=0.41% B- =99.59%
+©
+ease
+oa
+eo
+» Oo
+NN Yr
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 9Ga Half Life: 21.14(3) min.
+Detector: 4.55 cm2 x 8 mm Ge (Li) Method of Production: 69Ga(n,y)
+
+E, (keV) OE, \, (rel) 1, (%) ol, Ss
+
+176.170 0.020 0.291 0.010 | 1
+
+1039.20 0.08 100 0.65 0.05 | 1
+
+1215. 4
+
+Ey, OE,, ly, Oly ~ 1998 ENSDF Data
+ae
+

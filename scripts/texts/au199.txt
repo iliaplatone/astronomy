@@ -1,0 +1,85 @@
+Page -777-
+10° 199 Au(3.1day)
+
+4-26-73
+70 cm? coaxial Ge(Li)
+0.5 gicm? Be
+20cm
+
+79-199-1
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+sums (x+y)
+
+random sum
+
+10?
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+ 
+
+Page -778-
+
+199Au(3.1 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: 199Au Half Life: 3.139(7) day
+Method of Production: 198Pt(n,y)B
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Detector: 70 cm3 coaxial Ge (Li)
+EY (keV) oE, |, (rel) 1 (%) ol, s
+49.827 0.36 0.011 4
+158.379 100 40 0.7 1
+208.206 23.42 8.72 0.18 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+

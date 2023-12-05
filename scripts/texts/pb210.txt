@@ -1,0 +1,72 @@
+Page -787-
+10° 210Pb(22 yr.)
+
+8-22-69
+30 mm? x 3 mm Si(Li)
+
+Hg K no absorber
+
+x-rays 1.75 cm
+: 82-210-1
+
+L
+cL
+
+108
+
+104
+
+103 In & Sn K x-rays
+from fluorescence
+of detector contact
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -788-
+
+   
+   
+
+210Pb(22 yr.) Decay Scheme
+22 yr.
+
+20RD; 5.
+Bsbi 7° dav
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide: 210P Half Life: 22.3(3) yr.
+Detector: 30 mm2 x 3 mm Si (Li) Method of Production: 226Ra chem.
+E, (keV) OE, L, (el) 1, (%) sl, 8
+[46539 | 0.001 | | 425 | 004 [1 |
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+Table of Contents [— AS
+

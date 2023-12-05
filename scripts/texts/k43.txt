@@ -1,0 +1,127 @@
+Page -67-
+10° 48K(22 hr.)
+
+1-16-66
+2.5 cm? x 4 mm Ge(Li)
+0.5 gicm? poly
+3cm
+
+19-43-1
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+10?
+
+PR ero
+Bp ae
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -68-
+
+43K(22 hr.) Decay Scheme
+
+22 hr.
+3/2+ 0
+
+Q=1815
+
+  
+ 
+
+1394.47
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+43 stable
+99 Ca
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 48K Half Life: 22.3(1) hr.
+
+Detector: 2.5cm2 x 4 mm Ge(Li) Method of Production: 44Ca (y,p)
+E, (keV) oE, \, (rel) 1, (%) ol, Ss
+220.631 40 4.8000 0.0618 | 3
+372.76 100 86.80 0.20 1
+396.861 13.7 171.85 0.08 2
+404.214 0.365 0.013 4
+593.39 14.0 11.26 0.08 3
+617.49 94.3 79.2 0.6 1
+801.071 0.148 0.013 4
+990.245 1.0 0.29 0.03 3
+1021.698 2.9 1.962 0.026 2
+1394.449 0.131 0.008 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+

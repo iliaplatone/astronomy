@@ -1,0 +1,129 @@
+Page -717-
+107 181Hf(42 day)
+
+1-10-73
+65 cm? coaxial Ge(Li)
+0.357 g/cm? Poly
+10cm
+72-181-1
+
+10°
+
+Ta
+x-rays
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+10?
+
+oo ey
+was ef
+CETERA ELS sy
+
+10'
+
+ 
+
+0 200 400 600 800 000 1200 1400 1600 1800 2000
+2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+Channel Number
+
+Table of Contents [ d
+
+   
+Page -718-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*®'Hf(42 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+4242 day Nuclide: ‘81Hf Half Life: 42.39(6) day
+181 Detector: 65 cm coaxial Ge (Li) Method of Production: 180Hf(n,7)
+Hf Q=1027 E, (keV) oE, i, (rel) 146) ol 8
+3.90 0.10 4
+T% 3/24 % 618 92 6.3 0.3 0.0115 0.0004 4
+10, 133.021 0.019 44.51 43.3 0.5 1
+asr\\1/24 7 615.12 pL_136.260 0.018 7A 5.85 0.19 | 1
+ce 136.86 0.04 . 0.86 0.19
+2 345.93 0.06 18.71 15.12 0.12 1
+475.99 0.09 1.45 0.703 0.007 3
+482.18 0.09 100. 80.5 0.4 1
+615.17 0.11 0.32 0.234 0.018 2
+618.66 0.08 0.05 0.0250 0.0012 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, oE,, ls ol, - 1998 ENSDF Data
+
+ 
+
+ 
+
+wo
+t+
+o
+ake ©
+of
+92. © + a)
+7/24
+181 stable
+731a
+
+eae
+Table of Contents z AS
+
+ 
+

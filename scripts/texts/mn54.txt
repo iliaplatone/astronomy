@@ -1,0 +1,74 @@
+Page -101-
+
+10° 54MIn(312 day)
+
+10-16-71
+55cm! coaxial Ge(Li)
+no absorber
+10cm
+25-54-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+Anomaly
+10? in original
+data
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -102-
+“4Min(312 day) Decay Scheme
+312 day
+
+    
+ 
+
+Q=1337.1
+
++
+o
+©
+
+24Ur
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: °4IVIin
+
+ 
+
+ 
+
+Half Life: 312.3(4) day
+Detector: 55 cm coaxial Ge (Li) Method of Production: 54Cr(p,n)
+E, (keV) oe, L, (rel) 1, (06) sl, s
+[834.838 | 0.003 | 100 | 99.9760 | 0.0010 | 1 |
+
+Table of Contents
+
+ 
+
+Ey oE,, Ws ol, - 1998 ENSDF Data
+

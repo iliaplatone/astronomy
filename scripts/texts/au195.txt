@@ -1,0 +1,106 @@
+Page -771-
+10”
+
+*SAu(186 day)
+
+7-10-72
+65 cm coaxial Ge(Li)
+no absorber
+20cm
+79-195-1
+
+10°
+
+108
+
+104
+
+sum (98+x-rays)
+sum (98+x-rays)
+
+Counts/Channel/Second
+
+1)
+=
+=
+
+10°
+
+sum (129+x-rays)
+| 199 |
+
+sum (129+x-rays)
+
+10?
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -772-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+195
+Au(186 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+| 86 day Nuclide: 19°Au Half Life: 186.10(5) day
+Detector: 65 cm3 coaxial Ge (Li) Method of Production: 195Pt(p,n)
+E, (keV) oE, 1, (rel) 1, (26) Gl, s
+30.876 0.006 0.75 0.05 4
+98.880 0.020 100. 10.9 0.8 1
+129.757 0.020 8.0 0.82 0.05 1
+199.46 0.04 0.078 0.0086 0.0008 2
+211.36 0.03 0.102 0.0109 0.0012 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nN | Table of Contents
+

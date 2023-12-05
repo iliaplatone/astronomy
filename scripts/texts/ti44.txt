@@ -1,0 +1,99 @@
+Page -81-
+108 “4Ti(63 yr.)
+
+4-30-71
+30 mm? x 3 mm Si(Li)
+no absorber
+0.3 cm
+22-44-2
+
+108
+
+Sc K x-rays
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -82-
+
+“Ti(49 yr.) Decay Scheme
+
+63 yr.
+O+ 0
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Half Life: 63(3) yr.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 44Ti
+
+Detector: 30 mm2 x 3 mm Si(Li) Method of Production: 45Sc(p,2n)
+
+E, (keV) oE, Ly (rel) 1, (%) oly s
+
+67.875 0.005 94 94.4 1.5 1
+
+78.337 0.003 100 96.2 0.3 1
+
+146.212 0.005 0.090 0.006 | 4
+
+Ey, OEyy lyy Gly - 1998 ENSDF Data
+a
+
+Table of Contents AS
+
+LAS
+

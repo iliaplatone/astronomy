@@ -1,0 +1,70 @@
+Page -181-
+
+107 ™Ge(11 day)
+
+10-21-68
+30 mm? x 3 mm Si(Li)
+unknown absorber
+2cm
+
+Ge K X-rays 32-71-41
+
+10°
+
+108
+
+104
+
+random sum
+spectrum
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10'
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -182-
+"™Ge(11 day) Decay Scheme
+11 day
+/2- 0
+
+1
+
+    
+
+Q=229.4
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+Table of Contents
+
+Nuclide: 71Ge Half Life: 11.43(3) day
+Detector: 30 mm2 x 3 mm Ge (Li) Method of Production: 70Ge(n,7)
+E, (keV) oF, I, (rel) 1, (%) ol, s
+
+No Gamma-rays
+E, OE), ly ol, - 1998 ENSDF Data
+
+ 
+

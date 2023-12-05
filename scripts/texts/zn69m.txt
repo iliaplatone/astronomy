@@ -1,0 +1,124 @@
+Page -153-
+10° 69mZn(13 hr.)
+6°Zn*(56 min.)
+
+2-21-73
+65 cm’ coaxial Ge(Li)
+1.26 gicm? Be
+20cm
+
+30-69m(69)-1
+
+108
+
+104
+Ts
+c
+°
+oO
+o
+Q
+o
+= 103
+5 10
+—
+9
+2
+c
+3 511-Ann.Rad.
+°
+
+573
+10? random sum
+
+(438 + 438)
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -154-
+69m7n(13 hr.) Decay Scheme
+
+13 hr.
+438.64
+
+9/2+
+
+       
+
+[T=99.967% o B- =0.033%
+
+1/2-
+
+ 
+  
+ 
+
+Q=905.5
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 89Zn - 69Z7)*
+Detector: 65 cm3 coaxial Ge (Li)
+
+Half Life: 13.76(2) hr. - 56.4(9) min.*
+Method of Production: 68Zn(n,y)
+
+ 
+
+687n(56 min.)
+Decay Scheme
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, L, (rel) 1, () ol, §
+318.40 0.20 0.0012 0.0002 4
+438.634 0.018 100 94.80 0.20 | 1
+573.90 0.20 0.09 0.033 0.003 3
+871.70 0.20 0.0002 0.0001 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+  
+
+ 
+

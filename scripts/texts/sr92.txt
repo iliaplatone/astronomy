@@ -1,0 +1,107 @@
+Page -271-
+
+10° °Sr(2.7 hr.)
+
+4-8-70
+45 cm Coaxial Ge(Li)
+unknown absorber
+unknown source distance
+38-92-2
+
+106
+
+10*
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+10°
+
+ 
+
+2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+Channel Number
+
+ 
+
+Table of Contents
+Page -272-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+92
+Sr(2.7 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+2.7 hr. Nuclide: 92Sr Half Life: 2.71(1) day
+as Detector: 45 cm3 coaxial Ge (Li) Method of Production: 235U(fission)
+2
+Sr E, (keV) cE, L, (rel) a) sl 8
+241.56 0.05 3.9 2.90 0.20 3
+Q=1 91 1 352.50 0.20 0.09 0.054 0.010 4
+430.49 0.03 46 3.28 0.24 3
+491.27 0.17 0.48 0.27 0.03 4
+979 650.80 0.20 0.37 0.03 4
+2 1+ 1383.90 892.68 0.24 0.080 0.016 | 4
+953.31 0.07 4.2 3.52 0.24 3
+1142.35 0.07 3.2 2.79 0.21 3
+0.179 1383.93 0.05 100 90. 6. 1
+° {=3) Ey OE yy ly» Gly ~ 1998 ENSDF Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents
+
+   
+

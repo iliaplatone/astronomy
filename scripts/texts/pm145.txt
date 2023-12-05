@@ -1,0 +1,84 @@
+Page -595-
+10° “45Pm(17 yr.)
+
+10-7-70
+30 mm? x 3 mm Si(Li)
+no absorber
+
+Nd K x-rays ape
+
+NdL
+x-rays
+
+105
+
+In & Sh K x-rays
+from fluorescence
+10¢ of detector contact
+Pb L x-rays
+from
+fluorescence
+
+10°
+
+Counts/Channel/Second
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -596-
+“Pm(17 yr.) Decay Scheme
+
+17 yr.
+
+   
+ 
+
+stable
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: '45Pm Half Life: 17.7(4) yr.
+Detector: 30 mm2 x 3 mm Si(Li) Method of Production: 145Nd(p,xn)
+
+ 
+
+Table of Contents [- ( AS
+
+ 
+
+ 
+
+E, (keV) oE, |, (rel) | (%) ol, s
+67.20 0.10 33.0 0.55, 0.06 2
+72.40 0.10 100. 1.85 0.20 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+

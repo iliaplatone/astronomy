@@ -1,0 +1,64 @@
+Page -75-
+
+105 47$c(3.3 day)
+
+7-29-71
+55 cm? coaxial Ge(Li)
+no absorber
+5cm
+21-47-41
+
+104
+
+108
+
+backscatter
+peak
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -76-
+
+47$c(3.3 day) Decay Scheme
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide:47Sc Half Life: 3.3492(6) day
+
+Detector: 55 cm3 coaxial Ge (Li) Method of Production: 48Ti(y,p)
+E, (keV) cE, L, (rel) 1, (%) ol,
+
+[159.381 | 0.015 | 100 | 683 | 04 | 1 |
+
+ 
+
+Ey OEyy ly Gly ~ 1998 ENSDF Data
+
+Table of Contents [— AS
+

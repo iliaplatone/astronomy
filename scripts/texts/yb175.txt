@@ -1,0 +1,102 @@
+Page -696-
+
+10° 7Yb(4.1 day)
+
+4-21-70
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+26 cm
+70-175-1
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+10?
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -697-
+Yb(4.1 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+4.1 day Nuclide: 175Yb Halt Life: 4.185(1) day
+_ Detector: 4.55 cm? x 8 mm Ge (Li) Method of Production: 174Yb(n,y)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, L, (rel) a) ol, §
+113.805 0.004 25.0 1.88 0.24 | 1
+137.658 0.006 21 0.103 0.015 3
+144.863 0.005, 5.1 0.33 0.04 2
+251.474 0.017 1.7 0.084 0.011 3
+282.522 0.014 47.0 3.0 04 |
+396.329 0.020 100. 6.4 08 | 1
+
+Exp OE yy lyy oly ~ 1998 ENSDF Data
+
+ 
+
+ 
+
+396
+251
+113
+
+ 
+
+ 
+
+ 
+
+86.5%) 7/24
+stable
+“Lu
+
+Table of Contents
+
+   
+

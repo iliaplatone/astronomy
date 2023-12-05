@@ -1,0 +1,79 @@
+Page -202-
+
+10° 77™m$e(17 sec.)
+
+4-23-70
+2.5 cm? x 8 mm Ge(Li)
+1 gicm? poly
+unknown source distance
+
+34-77m-1
+
+104
+
+10
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -203-
+™§e(17 sec.) Decay Scheme
+
+17 sec.
+
+1/2- v 0
+Tf
+4 495e stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 7”7™Se
+
+Detector: 2.5 cm2 x 8 mm Ge (Li)
+
+Half Life: 17.36(5) sec.
+
+Method of Production: 76Se(n,y)
+
+ 
+
+Table of Contents
+
+E, (keV) oE, L, (el
+
+Ly (%)
+
+ol,
+
+Ss
+
+ 
+
+[162.00 | 0.10 | 100
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+53.2
+
+0.7
+
+i |
+

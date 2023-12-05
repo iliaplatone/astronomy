@@ -1,0 +1,121 @@
+Page -249-
+
+10° ®°Rb(18 day)
+
+5-9-66
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+25cm
+37-86-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -250-
+
+ 
+
+ 
+
+   
+ 
+   
+   
+
+ 
+
+ 
+
+86Rb(18 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+18 day Nuclide: 8R Half Life: 18.631(18) day
+2- Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 85Rb(n,y )
+EY (keV) oE, |, (rel) 1 (%) ol, Ss
+[1077.0 | 04 | 100 | 864 | 004 | 1 |
+
+ 
+
+Q=1 774.7 OF G9 do48e% Ey» GE,» ly» Ol, ~ 1998 ENSDF Data
+
+EC=0.0052%
+
+ 
+
+Table of Contents [— AS
+Page -247-
+105 86mRb(1.0 min.)
+
+4-22-70
+2.5 cm? x 8 mm Ge(Li)
+1 gicm? poly
+40cm
+
+37-86m-1
+
+104
+
+backscatter
+103 peak
+
+10?
+
+Counts/Channel/Second
+
+10'
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -248-
+
+ 
+
+ 
+
+ 
+
+ 
+
+™Rb(1.0 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+1 0 min Nuclide: 8°™Rb Half Life: 1.017(3)min.
+Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 85Rb (n,y)
+EY (keV) oO BE (rel) 1 (%) oO ly Ss
+[556.07 [ 018 [| 100 | 9817 | 009 [1 |
+
+ 
+
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+|
+
+iay ~~ $Rb
+
+ 
+
+Table of Contents | AS
+

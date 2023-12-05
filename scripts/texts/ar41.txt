@@ -1,0 +1,82 @@
+Page -59-
+10° “Ar(109 min.)
+
+10-5-72
+70 cm? coaxial Ge(Li)
+0.3 gicm? poly
+3cm
+
+18-41-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -60-
+“Ar(109 min.) Decay Scheme
+109 min.
+
+   
+     
+
+Q=2491.6
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 41 Ar Half Life: 109.3(1) min.
+Detector: 70 cm$ coaxial Ge(Li) Method of Production: 40Ar(n,¥)
+
+ 
+
+Table of Contents [— AS
+
+ 
+
+ 
+
+E, (keV) oE, L, (rel) 1, 0) sl, §
+1293.587 0.008 100 99.1 1
+1677.198 0.008 0.045 0.052 0.020 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+

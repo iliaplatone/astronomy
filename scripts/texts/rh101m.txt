@@ -1,0 +1,122 @@
+Page -353-
+
+108 T™Rh(4.3 day)
+
+11-22-67
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+unknown source distance
+45-101m-1
+
+108 306
+
+10*
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+10°
+
+   
+
+2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+ 
+
+Table of Contents
+Page -354-
+GAMMA-RAY ENERGIES AND INTENSITIES mRh(4.3 day) Decay Scheme
+
+Nuclide: 11™Rh Half Life: 4.34(1) day 4.3 day
+Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 103Rh(y,n )
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) cE, Ly (rel) 1, €) ol, 8
+127.226 0.009 0.74 0.637 0.022 | 2
+157.41 0.04 0.31 0.241 0.009 | 4 rn. IT=7.20%
+179.636 0.015 0.67 0.532 0.017 | 3 lo
+184.11 0.05 0.24 0.156 0.005 | 4 bal
+233.74 0.04 0.20 0.177 0.004_| 4 -
+238.27 0.04 0.24 0.202 0.005 | 4 Q=542 101 yr
+306.857 0.005 100 81 5 1 _ ° 2 .
+311.40, 0.08 0141 | 0.0008 | 4 EC=92.80% 45 R h
+417.86 0.05 0.004 4
+545.117 0.007 53 43 03 | 4
+E,» OE, hy Gly ~ 1998 ENSDF Data
+7/2+ 545.12 4.1 4.8%
+| &
+Ba
+n_Y 311.38
+72+ v |
+oe
+KR ceo S
+zy r -
+32+ OF vy 84 127.23
+9 ~- © &
+oO rr
+stable 101 R
+44nu
+Table of Contents [— ARS
+
+ 
+

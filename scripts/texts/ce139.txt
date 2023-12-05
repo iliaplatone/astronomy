@@ -1,0 +1,61 @@
+Page -560-
+
+108 "°Ce(137 day)
+
+11-24-71
+65 cm’ coaxial Ge(Li)
+no absorber
+10cm
+58-139-1
+
+104
+
+10
+
+sums
+(165+K x-rays)
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -561-
+139Ce(137 day) Decay Scheme
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide: 189Ce Half Life: 137.640(23) day
+Detector: 65 cm3 coaxial Ge (Li) Method of Production: 139La(p,n)
+E, (keV) cE, L, (el) 1, (06) ol, §
+[165.853 | 0.007 | 100. | 79.886 | 0.014 | 1 |
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+Table of Contents [— AS
+

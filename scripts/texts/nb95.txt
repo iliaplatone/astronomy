@@ -1,0 +1,83 @@
+Page -301-
+
+10° °SNb(34 day)
+
+6-20-73
+65 cm coaxial Ge(Li)
+no absorber
+20cm
+41-95-41
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -302-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Nb(34 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+34 day Nuclide: 95Nb Half Life: 34.975(7) day
+Detector: 65 cm3 coaxial Ge (Li) Method of Production: 94Zr(n,¥)B
+E, (keV) GE, Ly (rel) 1, (6) ol
+204.120 0.010 0.020 0.009 4
+561.880. 0.020 0.013 0.003 4
+765.807 0.006 100 99.81 0.03 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+95 stable
+aMo
+
+ 
+
+Table of Contents
+
+ 
+

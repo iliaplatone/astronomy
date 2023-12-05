@@ -1,0 +1,87 @@
+Page -85-
+10° 5'T{(5.7 min.)
+
+3-20-70
+4.55 cm? x 8 mm Ge(Li)
+1 g/cm? poly
+10cm
+
+22-51-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -86-
+
+*'Ti(5.7 min.) Decay Scheme
+
+5.7 min.
+3/2 0
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 5'Ti Half Life: 5.76(1) min.
+
+Detector: 4.55 cm2 x 8 mm Ge(Li) Method of Production: 5°Ti(n,y)
+EY (keV) oO BE \y (rel) yy (%) o ly Ss
+320.076 0.006 100 93.1 0.4 1
+608.55 0.05 1.27 1.18 0.09 3
+928.63 0.06 741 6.9 0.4 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+Table of Contents
+
+ 
+

@@ -1,0 +1,131 @@
+Page -715-
+
+Counts/Channel/Second
+
+10°
+
+10°
+
+10*
+
+108
+
+10?
+
+101
+
+10°
+
+107
+
+ 
+
+    
+
+3000
+Channel Number
+
+800
+2800
+
+Table of Contents
+
+200
+3200
+
+180™H§(5.5 hr.)
+
+12-2-71
+55 cm coaxial Ge(Li)
+0.357 g/cm? Poly
+10cm
+72-180m-1
+
+332
+
+ 
+
+ 
+Page -716-
+
+180mH{(5.5 hr.) Decay Scheme
+5.5 hr.
+
+1141.73
+
+    
+
+IT=99.7%
+
+ 
+
+S 8
+0.29%\ 9- v 75.3
+15
+. ta >1.2x10°° yr.
+stable 8.1 hr.
+
+'8Ta
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 180Hf
+Detector: 55 cm3 coaxial Ge (Li)
+
+Half Life: 5.5(1) hr.
+
+Method of Production: 179Hf(n,7)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) cE, |, (rel) 1, (%) ol, s
+57.547 0.006 49.0 48.1 1.0 1
+93.325 0.012 15.5 17.2 0.3 1
+100.70 0.05 0.017 0.006 4
+215.426 0.008 86.2 81.6 1.0 1
+332.275 0.011 100. 94.4 1.2 1
+443.163 0.015 86.4 82.1 1.2 1
+500.697 0.013 15.1 14.3 0.3 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+Table of Contents
+
+ 
+
+ 
+

@@ -1,0 +1,94 @@
+Page -284-
+
+10° 89mZr(4.1 min.)
+2-3-69
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+5cem
+40-89m-1
+
+104
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+10°
+
+ 
+
+    
+
+3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+0 200 0 600 800
+2000 2200 2400 2600 2800
+
+   
+
+Table of Contents
+Page -285-
+
+89m7r(4.1 min.) Decay Scheme
+4.1 min.
+
+ 
+  
+   
+
+IS IT=93.77%
+lo
+
+Q=2832.3
+
+A990 89 .
+EC=6.23% tWA @ 78 hr.
+
+  
+
+39Y¥
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: 89™Zr Half Life: 4.18(1) min.
+Detector: 4.55 cm? x 8 mm Ge (Li) Method of Production: 99Zr(y,n)
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, Ly (rel) i) ol, 8
+Ann. 511.006 3.00 0.04 1
+587.79 01 100 89.51 0.17 | 1
+1507.3 04 7 6.08 o2t | 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, OE yy ly Gly ~ 1998 ENSDF Data
+
+ERO | Table of Contents
+

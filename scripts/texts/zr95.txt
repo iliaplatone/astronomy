@@ -1,0 +1,80 @@
+Page -288-
+10° %21r(64 day)
+
+1-20-72
+55 cm coaxial Ge(Li)
+1.18 gicm? Be
+10cm
+
+40-95-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -289-
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+*Zr(64 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+64 day Nuclide: 95Zr Half Life: 64.02(5) day
+Detector: 55 cm$ coaxial Ge (Li) Method of Production: 94Zr(n,y)
+95 E, (keV) E L, (el) 1, (%) | s
+202 r Q=1 1 24.5 28565 sat oad 1284 as 4
+724.199 0.005 80.6 44.17 0.15 1
+756.729 0.012 100 54.46 0.10 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, OEy, |, Gly - 1998 ENSDF Data
+
+ 
+
+Table of Contents
+
+ 
+

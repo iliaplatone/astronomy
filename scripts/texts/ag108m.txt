@@ -1,0 +1,124 @@
+Page -380-
+10° 108m Ag(418 yr.)
+
+9-21-71
+55 cm coaxial Ge(Li)
+1 g/cm? Be
+5cm
+
+47-108m-1
+
+104
+
+ 
+
+Ts
+
+5 10°
+
+oO
+
+®
+
+g
+
+a
+
+=
+
+c
+
+oO
+
+co
+
+Oo
+
+a sum
+
+5 (433 + 614)
+
+© 10? sum sum
+
+° (433 + 722) (614 + 722)
+101
+10°
+
+  
+
+200 400 600 800 00 200 400 600 800 2000
+2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+Channel Number
+
+   
+
+Table of Contents
+Page -381-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18mAg(418 yr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+418 yr. Nuclide: 198m Ag Half Life: 418(21) yr.
+6+ 109.51 Detector: 55 cm3 coaxial Ge (Li) Method of Production: 107Ag(n,y)
+
+E, (keV) cE, L, el 1, (06) ol, 8
+
+30.38 0.06 4
+
+Oo 79.131 0.003 6.6 0.5 1
+
+Q=1918 433.937 0.004 100 90.5 1
+
+1
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+~ 2.3 min. 614.276 0.004 100 89.8 2.0
+1 v 0 722.907 0.010 100 90.8 2.0
+E,, oE,, |, ol, - 1998 ENSDF Data
+y yop ey
+* Ag
+
+  
+
+ 
+
+Table of Contents [- ( AS
+

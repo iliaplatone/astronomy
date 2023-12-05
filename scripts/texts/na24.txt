@@ -1,0 +1,125 @@
+Page -45-
+108 ?4Na(14.9 hr.)
+
+10-4-72
+65 cm? coaxial Ge(Li)
+no absorber
+35m
+11-24-1
+10°
+
+511-Ann.Rad.
+
+DE
+10*
+
+ 
+
+       
+
+z 10°
+°
+°o
+o
+QD
+Oo
+=
+& 102
+—<
+9
+2
+c
+Ss
+°
+© 101
+
+10°
+
+sum
+(1368+2754)
+1071
+10?
+0 200 400 600 800 000 200 400 600 800 2000
+2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -46-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4Na(14.9 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+1 4.9 h i Nuclide: 24Na Half Life: 14.9590(12) hr.
+4+ 0 Detector: 65 cm 3 coaxial Ge (Li) Method of Production: 23 Na (n,y)
+24 N E, (keV) oE, \ (rel) (i) oly s
+996.82 0.001 0.0002
+11 a Q=551 5 79 1368.633 100 100.0 1
+7 . 2754.028 98.6 99.944 0.004 1
+2869.5, 0.0003 0.0001 4
+0.053%I\ \3+ 5235.20 1257.38 ee
+Ey oE,, ls oly - 1998 ENSDF Data
+4238.36
+99.94% 4122.87
+rs
+oO
+© Bk
+© oN
+ml, 4 | 1
+0.003% \5, 4 1368.68
+©
+5 ©
+N eo
+tT r
+O+ 0
+
+7 Z| Table of Contents [— x
+

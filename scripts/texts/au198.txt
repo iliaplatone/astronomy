@@ -1,0 +1,95 @@
+Page -775-
+10° 198 Au(2.6 day)
+
+3-2-70
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+10cm
+79-198-1
+
+108
+
+-
+oa
++
+oS
+°
+oa
+=<
+o
+S
+a
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -776-
+198Au(2.6 day) Decay Scheme
+2.6 day
+2- 0
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 198Au Half Life: 2.69517(2) day
+
+Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 197Au(n,y)
+Ey (keV) oEy ly (rel) ty (%) oly s
+411.802 95.58 0.12 1
+675.884 0.001 0.804 0.003 | 2
+1087.684 0.003 0.1590 0.0020 | 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey OEyy ly Oly ~ 1998 ENSDF Data
+
+ 
+
+Table of Contents
+

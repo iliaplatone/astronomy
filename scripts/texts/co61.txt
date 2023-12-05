@@ -1,0 +1,88 @@
+Page -124-
+
+10° 51C0(1.6 hr.)
+
+2-3-69
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+unknown source distance
+27-61-1
+
+104
+
+10
+
+10?
+
+Counts/Channel/Second
+
+random sum
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -125-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'Co(1.6 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+1.6 hr. Nuclide: 61Co Half Life: 1.650(5) hr.
+5+ 0 Detector: 4.55 cm2 x 8 mm Ge (Li) Method of Production: 61Ni(n,p )
+61 E, (keV) oE Ly (rel) by (%) ol s
+37CO —_ BAIS 0.010 100. 84.7 oA 1
+Q=2823.9 841.7 0.5 0.79 0.07 4
+909.2 0.5 3.62 0.27 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol - 1998 ENSDF Data
+
+ 
+
+4.4%\15/2-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents : : kG
+

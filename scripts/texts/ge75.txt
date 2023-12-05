@@ -1,0 +1,148 @@
+Page -183-
+
+toe 75Ge(82 min.)
+4-10-70
+4.55 cm? x 8 mm Ge(Li)
+1 g/cm? poly
+6cm
+
+32-75-1
+
+10°
+
+10*
+
+108
+
+Counts/Channel/Second
+
+10?
+sae By a eng 3 5
+
+eae,
+
+i #, ena ag! ak
+he sy io + ry
+Si ae AS Sb pepe
+
+ee PS ee Pa
+
+10°
+
+ 
+
+    
+
+3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+0 200 0 600 800
+2000 2200 2400 2600 2800
+
+   
+
+Table of Contents
+Page -184-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+75 i
+Ge(82 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+82 min. Nuclide: 7>Ge Half Life: 82.78(4) min.
+va Detector: 4.55 cm2 x 8 mm Ge (Li) Method of Production: 74Ge(n,y)
+GQ e E, (keV) oE, L, (rel) 1, () ol Ss
+66.00 0.20 20 0.114 0012 [3
+Q=1176.6 136.0 0.0008 | 0.0001 | 4
+198.60 0.10 10.9 1.19 0.12 | 1
+> 204.26 0.0011 | 0.0001 | 4
+-3/2- 617.69 264.60 0.10 100 11.4 14 1
+270.2 o4 0.0084 | 0.0012 | 4
+279.7 04 0.14 0.0057 | 0.0013 | 4
+338.0 04 0.14 0.0046 | 0.0012 | 4
+0.225% 353.0 05 0.30 0.020 0.003_| 3
+<0.001%l 419.1 0.2 2.4 0.185 0.019 | 1
+468.80 0.20 23 0.223 0.023 | 1
+617.70 0.20 0.84 0.114 oo | 2
+Ey oE,, ls ol, - 1998 ENSDF Data
+11.5%
+0.86%
+87.1%.|
+Sao  —)
+Be | Table of Contents | A
+3 aw RR
+

@@ -1,0 +1,177 @@
+Page -425-
+10° 116™Sb(60 min.)
+
+2-17-72
+35 cm coaxial Ge(Li)
+no absorber
+3cm
+51-116m-1
+
+10°
+
+3
+SS
+«
+c
+5g
+<0
+eo
+5
+wo
+
+10
+3
+<
+3
+°o
+®
+Q
+2 ~
+a
+§ 10° a-
+£ No
+N=
+o rae)
+oa aN
+2 gis
+5 ert
+3 E oO
+-
+° te
+10? 3
+a
+
+sum
+(97241293)
+118Gb sum
+(107241293)
+10!
+
+ 
+
+   
+
+2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+Channel Number
+
+   
+
+Table of Contents
+Page -426-
+
+"'6mSb(60 min.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+60 min.
+
+ 
+
+ 
+
+Nuclide: 116™Sb Half Life: 60.3(6) min.
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 min Detector: 35 cm3 coaxial Ge (Li) Method of Production: 116Sn(p,n)
+Q-4707 /f 116 E, (keV) oE, \, (rel) A) Gl, Ss
+si9D 99.802 0.011 32.0 28.3 1.2 1
+135.511 0.010 29.0 28.5 1.2 1
+3085.53 294.60 0.20 0.09 0.05 4
+319.24 0.12 0.33 0.03 4
+407.351 0.015 42.0 38.8 1.6 1
+436.666 0.021 44 3.58 0.16 3
+Q- r 3522.69 Ann. 511.006 52. 4. 1
+3 542.867 0.015 52.1 48.1 2.0 1
+8- 3228.05 844.001 0.019 12.0 11.2 05 2
+o
+— oe we sana. iareava [oa | 280] a8 [a
+oe x NA 2908.81 : ~ - - :
+S 1076.72 0.13 0.9 0.3 4
+6- z ¥ ¥ 2773.30 1293.557 0.011 100 100. 4. 1
+« J 2 1315.53 0.04 0.56 0.40 0.04 2
+5: ¥ d 2365.94 1501.03 0.17 0.65 0.57 0.15 2
+3 2066.14 Ey oE,, ls oly - 1998 ENSDF Data
+ry
+S&S N
+- Oo
+24 vViev 1293.56
+o
+foo)
+N
+Sa
+O+ 0
+stable 116
+500N
+
+   
+
+Table of Contents
+

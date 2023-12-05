@@ -1,0 +1,62 @@
+Page -760-
+104 193Pt(50 yr.)
+
+10-22-68
+IrL 30 mm? x 3 mm Si(Li)
+no absorber
+x-rays 1.75 cm
+78-193-1
+
+L te
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -761-
+193P1(50 yr.) Decay Scheme
+
+500 yr.
+
+   
+
+3/2+
+stable 193
+77
+
+Ir
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 199Pt
+Detector: 30 mm2 x 3 mm Si (Li)
+
+Half Life: 50(6) yr.
+Method of Production: 192Pt(n,y)
+
+ 
+
+Table of Contents [— AS
+
+E, (keV) oE, |, (rel) 1, (%) ol, Ss
+No Gammas
+

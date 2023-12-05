@@ -1,0 +1,94 @@
+Page -188-
+
+10” 73As(80 day)
+7-26-68 thru 7-29-68
+30 mm? x 3 mm Si(Li)
+
+no absorber
+
+Ge K x-rays 1.75cm
+33-73-3
+
+10°
+
+108
+
+104
+
+Counts/Channel/Second
+
+10°
+
+10?
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -189-
+
+73As(80 day) Decay Scheme
+80 day
+- 0
+
+4/2
+
+ 
+
+©
+Ww
+?
+2+
+
+stable 73
+32Ge
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 72As Half Life: 80.30(6) day
+Detector: 30 cm2 x 3 mm Si (Li) Method of Production: 73Ge(n,p)
+
+ 
+
+Table of Contents
+
+ 
+
+E, (keV) oE, L, el) a) ol, §
+13.263 0.015 0.4 0.089 4
+53.437 0.009 100. 10.34 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, GEyy ly Oly ~ 1998 ENSDF Data
+
+ 
+

@@ -1,0 +1,76 @@
+Page -109-
+10° 5SFe(2.7 yr.)
+
+4-29-71
+30 mm? x 3 mm Si(Li)
+no absorber
+3cm
+26-55-1
+
+Mn K x-rays
+
+104
+
+108
+
+10?
+
+Counts/Channel/Second
+
+random sum
+
+10'
+
+ 
+
+10°
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -110-
+
+5SFe(2.7 yr.) Decay Scheme
+
+2.7 yr.
+3/2+ 0
+
+33Fe
+Q= 236.1
+
+13x 107%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: °5Fe
+
+ 
+
+ 
+
+Half Life: 2.73(3) yr.
+Detector: 30 mm2 x 3 mm Si (Li) Method of Production: 54Fe(n,y)
+E, (keV) o EY i (rel) u (%) o \ s
+[12600 [0.10 [0.00000013 [0.00000002[ 4 |
+
+Table of Contents
+
+ 
+
+Ey oE,, hs ol, - 1998 ENSDF Data
+

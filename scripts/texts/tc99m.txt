@@ -1,0 +1,89 @@
+Page -327-
+
+108 °8mT¢(6.0 hr.)
+
+9-12-72
+65 cm’ coaxial Ge(Li)
+no absorber
+10cm
+43-99m-1
+
+108
+
+scatter
+408 spectrum
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -328-
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+99
+™Tc(6.0 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+6.0 hr. Nuclide: 99™Tc Half Life: 6.01(1) hr.
+Detector: 65 cm$ coaxial Ge (Li) Method of Production: 98Mo(n,7)B
+EY (keV) oO E, ly (rel) ly (%) oO ly Ss
+IT=99.9963% “36 —[ 03 i
+~ . ° Q=293.7 140.51 10 0.001 0 100 89.06 0.24 1
++ B- = 0.0037% 142.63 0.03 0.0187 0.0018 4
+as 232.80 0.20 0.23 0.04 4
+oa 3 Wo 322.40 0.20 2.62 0.14 4
+2 Evy OE lyy Oly ~ 1998 ENSDF Data
+
+   
+
+Table of Contents
+

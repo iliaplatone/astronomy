@@ -1,0 +1,93 @@
+Page -436-
+10° 120Sb(5.7 day)
+
+5-19-70
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+4om
+51-120-1
+
+108
+
+104
+
+sum
+(894197)
+
+10
+
+Counts/Channel/Second
+
+10?
+
+(19741171)
+BG
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -437-
+
+°Sb(5.7 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+5.7 day Nuclide: 1209S Halt Life: 5.76(2) day
+
+Detector: 4.55 cm2 x 8mm Ge (Li) Method of Production: 121Sb(y,n)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) cE, |, (rel) 1, (%) ol, s
+89.8 0.3 74.0 79.5 1.6 1
+197.3 0.3 88.0 87.0 14 1
+1023.3 0.4 100. 99.4 0.3 1
+1113.4 0.6 2.8 0.821 0.010 2
+1171.7 0.3 100 100. 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+1023
+
+1113
+
+ 
+
+Table of Contents | ( AS
+
+ 
+

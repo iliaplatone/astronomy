@@ -1,0 +1,82 @@
+Page -140-
+
+10° ®Cu(12 hr.)
+
+4-3-70
+55 cm coaxial Ge(Li)
+1.18 gicm? Be
+
+511-Ann.Rad. 29-641
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+random sum
+
+10? (511 +511)
+
+10°
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -141-
+
+ 
+
+ 
+
+ 
+
+ 
+    
+
+ 
+
+ 
+
+*Cu(12 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+12 hr. Nuclide: §4Cu Half Life: 12.700(2) hr.
++ 0 Detector: 55 cm3 coaxial Ge (Li) Method of Production: 63Cu(n,y)
+E (keV) cE, L, (rel) 1,6) sl, 8
+Ann. 511.006 100 34.5 0.4 1
+Q=1675.10 Q=578.8 1345.77 0.06 1.05 0.471 0.010 | 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+EC=61%
+
+ 
+
+   
+
+Table of Contents
+

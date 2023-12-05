@@ -1,0 +1,97 @@
+Page -57-
+108 38C|(37 min.)
+
+1-20-73
+65 cm? coaxial Ge(Li)
+1.6 gicm? Be
+25cm
+17-38-1
+
+2167
+
+10°
+
+ 
+
+108
+Ts
+<7
+°
+oO
+o
+Q
+3
+=
+© 10°
+co
+S
+2
+c
+Ss
+°
+oO
+102
+sum
+1642 + 2167)
+101
+10°
+
+       
+
+000 200 400 600 800 2000
+3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+2000 2200 2400 2600 2800
+
+   
+
+Table of Contents
+Page -58-
+
+38Cl(37 min.) Decay Scheme
+37 min.
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+Table of Contents [— AS
+
+ 
+
+ 
+
+Nuclide: 88C] Half Life: 37.24(5) min.
+Detector: 65 cm$ coaxial Ge (Li) Method of Production: 38 Cl(n,y)
+E, (keV) oE, \, (rel) 1, (%0) oly s
+1642.714 76 31.9 1.0 1
+2167.405 100 42.4 1.4 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+

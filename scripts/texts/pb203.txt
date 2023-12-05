@@ -1,0 +1,86 @@
+Page -785-
+108
+
+203Pb(51 hr.)
+9-21-66
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+1.5m
+82-203-1
+
+104
+
+ 
+
+2
+© 103 S
+3 >
+@ £
+=> xa
+2 $e
+5 nm ©—401
+2 Es
+2 so
+c ast
+5 402 NS
+10’
+°o
+° £
+>
+ao
+10"
+10°
+
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -786-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+°3Pb(51 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+51 hr. Nuclide: 203Plp Half Life: 51.873(9) hr.
+= Detector: 2.5 cm2 x 8 mm Ge (Li) Method of Production: 204Pb(y,n)
+E, (keV) oE, 1, (rel) 1, (%6) Gl, s
+279.197 0.001 100. 80.8 0.2 1
+401.325 0.010 4.36 3.35, 0.07 1
+680.514 0.010 0.92 0.753 0.018 3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+Table of Contents
+
+   
+

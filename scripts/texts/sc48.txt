@@ -1,0 +1,97 @@
+Page -77-
+
+108 *8S¢(43 hr.)
+159 47Sc 4-3-66
+
+2.5 cm? x 8 mm Ge(Li)
+0.5 gicm? poly
+10cm
+
+21-48-1
+
+10°
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -78-
+
+*8Sc(43 hr.) Decay Scheme
+6 43 hr
+
+  
+ 
+
+3508.57
+os
+
+3333.21
+
+  
+
+2 Ti
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nuclide: 48Sc Half Life: 43.67(9) hr.
+
+Detector: 2.5 cm2 X 8 mm Ge (Li) Method of Production: 49Ti (y,p)
+EY (keV) o EY ly (rel) ly (%) oO ly Ss
+175.361 0.005 7.69 7.48 0.10 1
+983.526 0.012 99 100.1 0.6 1
+1037.522 0.012 100 97.6 0.7 1
+1212.880 0.012 2.38 0.04 4
+1312.120 0.012 98 100.1 0.7 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BE, OE), Ws ol, - 1998 ENSDF Data
+
+Table of Contents
+
+ 
+
+ 
+

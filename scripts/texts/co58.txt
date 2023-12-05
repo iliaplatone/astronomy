@@ -1,0 +1,106 @@
+Page -118-
+10” 58Co(70 day)
+
+1242-71
+55 cm coaxial Ge(Li)
+no absorber
+10cm
+27-58-41
+
+10°
+
+511-Ann.Rad.
+
+106
+
+ 
+
+     
+
+Ts
+<7
+8
+8 10
+oO
+=
+c
+oO
+co
+9
+2 10
+Ss
+°
+°°
+random sum
+(810 + 810)
+
+10?
+
+10"
+
+10°
+
+0 200 400 600 800 000 200 400 600 800 2000
+2000 2200 2400 2600 2800 3000 3200 3400 3600 3800 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -119-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+**Co(70 day) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+70 day Nuclide: 58Co Half Life: 70.86(7) day
+2+ Detector: 55 cm$ coaxial Ge (Li) Method of Production: 58Ni(n,p)
+
+E, (keV) oE, Ly (rel) 14 (6) sl, 8
+
+Ann. 511.006 29.5 0.3
+
+810.775 0.009 100 99.450 0.010 1
+
+863.959 0.009 0.74 0.683 0.011 1
+
+1674.730 0.010 0.54 0.518 0.008 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls ol, - 1998 ENSDF Data
+
+ 
+
+   
+
+Table of Contents
+

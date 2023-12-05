@@ -1,0 +1,99 @@
+Page -105-
+10° 52Fe(8.5 hr.)
+
+7-31-71
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+tom
+26-52-1
+
+104
+
+511-Ann.Rad.
+
+108
+
+sum
+(168 + 511)
+
+10?
+
+Counts/Channel/Second
+
+10'
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -106-
+
+52Fe(8.2 hr.) Decay Scheme
+8.2 hr.
+
+ 
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: 52Fe Half Life: 8.275(8) hr.
+Detector: 4.55 cm2 x 8 mm Ge (Li) Method of Production: 54Fe(y,2n)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) oE, Ly (rel a) ol, 8
+168.688 0.002 100 99.2 27/4
+377.748 0.005 1.64 0.04 3
+Ann. 511.006 109.9 1
+704.600 0.200 0.029 0.010 4
+1039.928 0.017, 0.095 0.004 4
+1530.709 0.019 0.0452 0.0021 4
+1727.57 0.08 0.211 0.010 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey OEyy yy Oly ~ 1998 ENSDF Data
+
+ 
+
+Table of Contents
+

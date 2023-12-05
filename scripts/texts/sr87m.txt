@@ -1,0 +1,72 @@
+Page -266-
+
+104 87™mSr(2.8 hr.)
+
+9-18-66
+2.8 cm? x 4 mm Ge(Li)
+no absorber
+15cm
+38-87m-1
+
+10°
+
+ty fide +
+af tian ay
+eas CS BS ate ty sat
+102 ‘i ft na at
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+0 100 200 300 400 500 600 700 800 900 1000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -267-
+
+87mSr(2.8 hr.) Decay Scheme
+
+2.8 hr.
+D-
+
+ 
+
+Q=283.3
+EC=0.3%
+
+  
+
+ 
+  
+ 
+
+IT=99.7%
+
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: 8’™Sr
+Detector: 2.8 cm2 x 4 mm Ge (Li)
+
+E, (keV) cE,
+388.531 | 0.003
+
+Table of Contents
+
+Half Life: 2.803 (3) hr.
+Method of Production: 86Sr(n,)
+
+I, (rel) 1 (%) ol, s
+
+Ly (
+joo | 821 | 05 | 1 |
+

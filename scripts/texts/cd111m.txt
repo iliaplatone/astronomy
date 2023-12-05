@@ -1,0 +1,91 @@
+Page -393-
+10° 1™1mCd(48 min.)
+
+4-10-71
+4.55 cm? x 8 mm Ge(Li)
+1 g/cm? Poly
+10cm
+
+48-111m-1
+
+10*
+
+ 
+
+Ts
+5 10°
+oO
+o
+Q
+oO
+¢
+i
+oO
+xo
+9
+gz
+5
+3 102
+oO
+
+10°
+
+10°
+
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+Channel Number
+— .
+Ss
+Table of Contents ; ARS
+
+ 
+Page -394-
+mCd(48 min.) Decay Scheme
+
+ 
+
+52 min.
+5/2+ 245.40
+
+ 
+
+4 sCd stable
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+Nuclide: 111™Cd Half Life: 48.54(5) min.
+
+ 
+
+ 
+
+ 
+
+Detector: 4.55 cm2 x 8mm Ge (Li) Method of Production: 119Cd(n,¥)
+EY (keV) GE, |, (rel) 1 (%) ol, Ss
+150.825 0.015 31 29.1 1.8 1
+245.395 0.020 100 94. 7. 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, OEy, |, Gly ~ 1998 ENSDF Data
+
+Table of Contents im “Ee
+

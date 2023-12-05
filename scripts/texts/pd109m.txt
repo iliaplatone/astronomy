@@ -1,0 +1,62 @@
+Page -368-
+10° 108mPd(4.6 min.)
+
+4-22-70
+2.5 cm? x 8 mm Ge(Li)
+1 g/cm? Poly
+unknown source distance
+
+46-109m-1
+
+104
+
+10
+
+10?
+
+Counts/Channel/Second
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -369-
+109mPq(4.6 min.) Decay Scheme
+
+| 4.6 min.
+
+13 hr.
+Pq
+
+>
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+Nuclide: 109™Pd Half Life: 4.696(3) min.
+Detector: 2.5 cm2 8 mm Ge (Li) Method of Production: 108Pd (n,7)
+E, (keV) cE, L, (el) 1, (%6) sl, 8
+[188.90 [ 010 [| 100 | 559 | Lt]
+
+ 
+
+Ey OEyy lyy Oly ~ 1998 ENSDF Data
+
+wwe
+Table of Contents z AS
+

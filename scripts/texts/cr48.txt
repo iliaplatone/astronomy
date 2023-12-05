@@ -1,0 +1,89 @@
+Page -91-
+
+10° *®Cr(21 hr.)
+
+8-41-71
+4.55 cm? x 8 mm Ge(Li)
+no absorber
+tom
+24-48-41
+
+10°
+
+102
+sum
+(112 + 308)
+
+Counts/Channel/Second
+
+511-Ann.Rad.
+
+10°
+
+ 
+
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -92-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+48,
+Cr(21 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+Nuclide: 48Cr Half Life: 21.56(3) hr.
+Detector: 4.55 cm2 x 8 mm Ge(Li) Method of Production: V(p,xn)
+
+EY (keV) oO E (rel) ly (%) oO ly Ss
+
+112.31 0.08 84 96.0 2.0 1
+
+308.24 0.06 100 100.0 2.0 1
+
+420.5 0.0300 0.0006 4
+
+Ann. 511.006 34 0.5 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+ 
+
+   
+
+Table of Contents
+

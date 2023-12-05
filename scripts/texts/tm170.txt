@@ -1,0 +1,100 @@
+Page -686-
+
+108 ™Tm(128 day)
+
+8-19-68
+2.5 cm? x 8 mm Ge(Li)
+no absorber
+1.8cm
+69-170-1
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+10?
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -687-
+™Tm(128 day) Decay Scheme
+128 day
+
+   
+
+Q=314.4
+EC=0.131%
+
+  
+   
+
++
+stable 17:
+6sEr
+
+ 
+
+tT
+
+©
+81.6%,10+ ¥v 0
+Yb stable
+
+70
+
+ 
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+Nuclide: 17°Tm
+Detector: 2.5 cm? x 8 mm Ge (Li)
+
+Half Life: 128.6(3) day
+Method of Production: 169Tm(n,y)
+
+ 
+
+Table of Contents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E, (keV) cE, L, el 1, (06) ols
+78.7 0.5 0.0035 0.0001 4
+84.255 100 2.48 0.06 | 1
+
+Ey, oE,, shy oly ~ 1998 ENSDF Data
+

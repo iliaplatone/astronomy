@@ -1,0 +1,68 @@
+Page -783-
+10° 203Hg(46 day)
+
+9-20-72
+70 cm? coaxial Ge(Li)
+
+279 1/8 Inch Poly
+
+10cm
+
+80-203-1
+
+105
+
+104
+
+10°
+
+Counts/Channel/Second
+
+10?
+
+ 
+
+10°
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -784-
+203Hg(46 day) Decay Scheme
+46 day
+
+ 
+
+GAMMA-RAY ENERGIES AND INTENSITIES
+
+ 
+
+ 
+
+ 
+
+2 Nuclide: 2°SHg Half Life: 46.612(18) day
+5/2- 0 Detector: 70 cm3 coaxial Ge (Li) Method of Production: 202Hg(n,¥)
+E, (keV) cE, ly (rel) A) sl, 8
+
+[279.197] 0.001 | 100. | 8146 | 013 | 1 |
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+ 
+
+279
+
+ 
+
+28T| stable
+
+ 
+
+Table of Contents [— AS
+

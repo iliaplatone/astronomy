@@ -1,0 +1,123 @@
+Page -708-
+10° 176m|_4(3.6 hr.)
+
+4-22-70
+30 mm? x 3 mm Si(Li)
+0.3 gicm? Be
+1.75 cm
+71-176m-1
+
+“rays
+
+104
+
+Hf Ko x
+Lu K x-rays from fluorescence
+
+Hf KB x-rays
+
+In & Sn K x-rays
+from fluorescence
+of detector contact
+
+108
+
+Lu K x-rays from fluorescence of source
+
+Counts/Channel/Second
+
+10?
+
+ 
+
+0 400 800 1200 1600 2000 2400 2800 3200 3600 4000
+
+Channel Number
+
+Table of Contents
+
+   
+Page -709-
+
+ 
+
+ 
+
+     
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vém_u(3.6 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+3.6 hr. Nuclide: 176™Ly Half Life: 3.635(3) hr.
+‘i Detector: 30 mm2 x 3 mm Si (Li) Method of Production: 175Lu(n,y)
+
+E, (keV) cE 1, (rel) 1, (%) ol 8
+
+176 L 32.1 * * 9.0070 S014 4
+
+71 u Q=1192.8 88.361 0.009 8.90 04 1
+
+202.2 0.3 0.0007 4
+
+936.25, 0.20 0.0002 4
+
+956.8 0.3 4
+
+1061.42 0.08 0.0008 4
+
+1138.25 0.15 0.0002 4
+
+1159.26 0.07 0.0014 4
+
+1204.70 0.18 0.0001 4
+
+1226.61 0.16 0.0001 4
+
+1247.62 0.09 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey, GEys |, Gly ~ 1998 ENSDF Data
+
+   
+
+Table of Contents
+

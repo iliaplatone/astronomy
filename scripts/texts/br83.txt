@@ -1,0 +1,124 @@
+Page -228-
+10° ®3Br(2.4 hr.)
+
+7-21-72
+70 cm? coaxial Ge(Li)
+1 g/cm? poly
+2cm
+
+35-83-1
+
+108
+
+104
+
+10
+
+Counts/Channel/Second
+
+10?
+
+10°
+
+ 
+
+10°
+0 200 400 600 800 1000 1200 1400 1600 1800 2000
+
+Channel Number
+
+   
+
+Table of Contents
+Page -229-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Br(2.4 hr.) Decay Scheme GAMMA-RAY ENERGIES AND INTENSITIES
+
+2.4 h r. Nuclide: 88Br Half Life: 2.40(2) hr.
+- Detector: 70 cm3 coaxial Ge (Li) Method of Production: 82Se(n,7)B
+
+EY (keV) o E i (rel) ly (%) oO Mi Ss
+
+9.396 0.007 4
+
+32.147 0.002 4
+
+119.320 0.020 0.461 0.0013 0.0006 4
+
+128.55 0.08 0.0001 4
+
+520.41 0.05 47 0.058 0.024 1
+
+529.640 0.010 100 1.2 0.5 1
+
+552.65 0.03 1.73 0.0200 0.008 1
+
+562.16 4
+
+648.96 0.05 1.05 0.012 0.005 1
+
+681.17 0.07 0.31 0.0039 0.0016 1
+
+790.1 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ey oE,, ls oly - 1998 ENSDF Data
+
+41.54
+D> 9.40
+
+ 
+
+ 
+
+83 Kr stable
+
+   
+
+Table of Contents
+
