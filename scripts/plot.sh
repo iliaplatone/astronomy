@@ -12,8 +12,8 @@ done
 echo "set datafile separator ','
 set xlabel 'channel'
 set ylabel 'counts'
-set logscale x 2
-set logscale y 2
+set logscale x 1
+set logscale y 1
 plot '$tmp_csv' w lines
 " |gnuplot -persist
-#rm $tmp_csv
+rm $tmp_csv
