@@ -3,7 +3,7 @@
 catalog=$1
 tmp_csv=/tmp/cat.csv
 
-cat $catalog | while read line; do
+cat $catalog | tr -s ' ' ';' | while read line; do
  echo $line
  echo $(echo "$(echo $line | sed -e 's/ /;/g' | cut -d ';'  -f 3)+1" | bc -l)",0" >> $tmp_csv
  echo "$(echo $line | tr -s ' ' ';' | cut -d ';'  -f 3),$(echo $line | cut -d ' ' -f 1)" >> $tmp_csv
