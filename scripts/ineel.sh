@@ -12,6 +12,7 @@ pushd ineel;
   tesseract $file.png $bsname -l eng -c tessedit_char_whitelist=0123456789.\  --psm 6
   sed -i 's/ 0\([0-9]\)/ 0.\1/g' $bsname.txt
   sed -i 's/\([0-9]+*\)\.\([0-9]+\)\./\1.\2/g' $bsname.txt
+  sed -i 's/\([0-9]+*\)\.\([0-9]+\)\./\1.\2/g' $bsname.txt
   tail -n+2 $bsname.txt | while read line
    do
    echo $(bc -l <<<"$(echo $line | cut -d ' ' -f 2)" | sed 's/^\./0./')\ \ $(bc -l <<<"1000000/$(echo $line | cut -d ' ' -f 1)") $(grep -e "^$element " ../../elements.txt | cut -d ' ' -f 1)$nuclide $(grep -e "^$element " ../../elements.txt | cut -d ' ' -f 2)$nuclide | sed -e '/^\ /d'  | sed -e '/\ \ \ /d' >> ../ineel_tmp/$bsname.txt
