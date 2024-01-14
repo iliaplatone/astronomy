@@ -1,6 +1,6 @@
 #!/bin/bash
 pushd ineel;
- rm *.png.png ../../*.txt
+ rm *.png.png ../ineel_tmp/*.txt
  for file in *.png
   do
   bsname=$( echo $file | cut -d '-' -f 1 )
@@ -13,7 +13,7 @@ pushd ineel;
   sed -i 's/\([0-9]+*\)\.\([0-9]+\)\./\1.\2/g' $bsname.txt
   tail -n+2 $bsname.txt | while read line
    do
-   echo $(bc -l <<<"sqrt(sqrt($(echo $line | cut -d ' ' -f 4))+$(echo $line | cut -d ' ' -f 5 | head -c-2)^2)" | sed 's/^\./0./')\ \ $(bc -l <<<"1000000/$(echo $line | cut -d ' ' -f 1)") $(grep -e "^$element " ../../../elements.txt | cut -d ' ' -f 1)$nuclide $(grep -e "^$element " ../../../elements.txt | cut -d ' ' -f 2)$nuclide | sed -e '/^\ /d'  | sed -e '/\ \ \ /d' >> ../../$bsname.txt
+   echo $(bc -l <<<"sqrt(sqrt($(echo $line | cut -d ' ' -f 4))+$(echo $line | cut -d ' ' -f 5 | head -c-2)^2)" | sed 's/^\./0./')\ \ $(bc -l <<<"1000000/$(echo $line | cut -d ' ' -f 1)") $(grep -e "^$element " ../../../elements.txt | cut -d ' ' -f 1)$nuclide $(grep -e "^$element " ../../../elements.txt | cut -d ' ' -f 2)$nuclide | sed -e '/^\ /d'  | sed -e '/\ \ \ /d' >> ../ineel_tmp/$bsname.txt
   done
  done
 popd
