@@ -4,7 +4,7 @@ catalog=$1
 tmp_csv=/tmp/cat.csv
 
 cat $catalog | while read line; do
- echo "$(echo $line | cut -d ' ' -f 2),$(echo $line | cut -d ' ' -f 1)" >> $tmp_csv
+ echo "$(echo $line | cut -d ' ' -f 3),$(echo $line | cut -d ' ' -f 1)" >> $tmp_csv
 done
 
 echo "set datafile separator ','
@@ -14,4 +14,4 @@ set logscale x 2
 set logscale y 2
 plot '$tmp_csv' w lines
 " |gnuplot -persist
-#rm $tmp_csv
+rm $tmp_csv
