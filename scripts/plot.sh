@@ -1,10 +1,10 @@
 #!/bin/bash
 
 catalog=$1
-tmp_csv=$TMPDIR/$$.csv
+tmp_csv=/tmp/$$.csv
 
 cat $catalog | while read line; do
- echo "$(echo $line | cut -s ' ' -f 2),$(echo $line | cut -s ' ' -f 1)" >> $tmp_csv
+ echo "$(echo $line | cut -d ' ' -f 2),$(echo $line | cut -d ' ' -f 1)" >> $tmp_csv
 done
 
 echo "set datafile separator ','
