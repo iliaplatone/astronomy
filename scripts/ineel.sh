@@ -21,4 +21,8 @@ pushd tmp;
    done
   done
  popd
+ pushd ineel_tmp;
+  ls > index.txt
+ popd
+ rsync -avr ineel_tmp/ ../../cat/ineel/
 popd
