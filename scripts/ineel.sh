@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir -p tmp/
 pushd tmp;
  rm -rf data/ ineel_tmp/
  mkdir -p data/ ineel_tmp/
