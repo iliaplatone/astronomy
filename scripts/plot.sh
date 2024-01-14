@@ -1,6 +1,7 @@
 #!/bin/bash
 
 catalog=$1
+logscale=$2
 tmp_csv=/tmp/$$.csv
 
 sed -e 's/ /;/g'  $catalog | while read line; do
@@ -13,7 +14,7 @@ done
 echo "set datafile separator ','
 set xlabel 'channel'
 set ylabel 'counts'
-set logscale x 2
+set logscale x $logscale
 set logscale y 1
 plot '$tmp_csv' w lines
 " |gnuplot -persist
