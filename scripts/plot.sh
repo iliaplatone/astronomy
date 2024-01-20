@@ -12,7 +12,7 @@ tmp_csv=/tmp/$$.csv
 sed -e 's/ /;/g'  $catalog | while read line; do
  echo $line
  echo $(echo "$(echo $line | cut -d ';'  -f 3)+1" | bc -l)",0" >> $tmp_csv
- echo "$(echo 1/$(echo $line | cut -d ';'  -f 3) | bc -l),$(echo $line | cut -d ' ' -f 1)" >> $tmp_csv
+ echo "$(echo $line | cut -d ';'  -f 3),$(echo 'l($(echo $line | cut -d ' ' -f 1))/l($logscale_y)' | bc -l)" >> $tmp_csv
  echo $(echo "$(echo $line | cut -d ';'  -f 3)-1" | bc -l)",0" >> $tmp_csv
 done
 
