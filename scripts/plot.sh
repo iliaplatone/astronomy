@@ -12,9 +12,9 @@ tmp_csv=/tmp/$$.csv
 sed -e 's/ /;/g'  $catalog | while read line; do
  x_val=$(echo $line | cut -d ';'  -f 3);
  y_val=$(echo $line | cut -d ';'  -f 1);
- x_mval=$(echo "1.0/($x_val-1)" | bc -l)
- x_pval=$(echo "1.0/($x_val+1)" | bc -l)
- x_val=$(echo "1.0/$x_val" | bc -l)
+ x_mval=$(echo "($x_val-1)" | bc -l)
+ x_pval=$(echo "($x_val+1)" | bc -l)
+ x_val=$(echo "$x_val" | bc -l)
  y_val=$(echo "sqrt($y_val)" | bc -l)
  y_val=$(echo "sqrt($y_val)" | bc -l)
  y_val=$(echo "sqrt($y_val)" | bc -l)
