@@ -15,7 +15,7 @@ sed -e 's/ /;/g'  $catalog | while read line; do
  echo $line
  echo $(echo "$x_val+1" | bc -l)",0" >> $tmp_csv
  printf "$x_val," >> $tmp_csv
- echo "l($y_val)/l($logscale_y)" | bc -l >> $tmp_csv
+ echo "$y_val^(1/$logscale_y)" | bc -l >> $tmp_csv
  echo $(echo "$x_val-1" | bc -l)",0" >> $tmp_csv
 done
 
