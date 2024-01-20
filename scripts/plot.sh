@@ -17,6 +17,8 @@ sed -e 's/ /;/g'  $catalog | while read line; do
  x_val=$(echo "1.0/$x_val" | bc -l)
  y_val=$(echo "sqrt($y_val)" | bc -l)
  y_val=$(echo "sqrt($y_val)" | bc -l)
+ y_val=$(echo "sqrt($y_val)" | bc -l)
+ y_val=$(echo "sqrt($y_val)" | bc -l)
 
  echo $line
  echo "$x_mval,0" >> $tmp_csv
