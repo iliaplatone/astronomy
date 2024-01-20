@@ -1,5 +1,9 @@
 #!/bin/bash
 
+(( $# < 3 )) && {
+ echo "usage: $(basename $0) catalog [logscale_x [logscale_y]]"
+ exit 11
+}
 catalog=$1
 logscale_x=$2
 logscale_y=$3
