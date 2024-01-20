@@ -1,6 +1,6 @@
 #!/bin/bash
 
-(( $# < 3 )) && {
+(( $# < 1 )) && {
  echo "usage: $(basename $0) catalog [logscale_x [logscale_y]]"
  exit 11
 }
